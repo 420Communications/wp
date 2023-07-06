@@ -1,0 +1,73 @@
+/*
+
+Template:       direo
+Theme Name:     direo Child
+Theme URI:      https://directorist.com/product/direo/
+Author:         wpWax
+Author URI:     https://wpwax.com
+Version:        2.1
+Text Domain:    direo
+Tags:           food-and-drink, blog, e-commerce, grid-layout, one-column, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, threaded-comments, theme-options, block-styles
+License:        GNU General Public License v2 or later
+License URI:    http://www.gnu.org/licenses/gpl-2.0.html
+
+*/
+
+/* You can add custom css after this line */
+button.directorist-start-chat-btn, .directorist-start-chat {
+    display: none !important;
+}
+
+.menu-area .top-menu-area .logo-top img {
+    max-width: 150px;
+    padding-bottom: 0 !important;
+}
+
+.page-id-2062 footer.footer-three.footer-footer-hide {
+    display: none;
+}
+
+p.direo-message.success {
+    background: linear-gradient(to right, var(--color-primary), var(--color-warning));
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 5px 5px 5px 11px;
+}
+
+.scammer-table-wrapper {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.home-gradiant {
+    background: linear-gradient(0deg, rgba(0,104,255,1) 0%, rgba(50,204,111,1) 100%);
+}
+
+.address_result ul li:before {
+	display: none !important;
+}
+
+.page-id-1979 .address_result {
+    top: 80px !important;
+}
+
+@media (min-width: 782px) {
+	.logged-in .menu-top {
+	    top: 0 !important;
+	}
+}
+
+@media(min-width: 1200px){
+    .directorist-wrapper .directorist-map-wrapper.directorist-map-columns-two .directorist-map-search-inner {
+        padding: 165px 0 50px;
+    }
+    .directorist-wrapper .directorist-map-wrapper.directorist-map-columns-two .directorist-map-listing {
+           padding-top: 184px;
+    }
+}
+
+@media only screen and (max-width: 1399px) {
+    .directorist-wrapper .directorist-map-wrapper.directorist-map-columns-two .directorist-map-search-inner .directorist-listing-map-title {
+        padding-bottom: 43px !important;
+    }
+}

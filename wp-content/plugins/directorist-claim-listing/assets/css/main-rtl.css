@@ -1,0 +1,351 @@
+.directorist-admin-claim {
+    margin-top: 10px;
+}
+
+.directorist-admin-claim>div {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.directorist-admin-claim>div label {
+    margin-right: 3px;
+}
+
+.directorist-claim-listing {
+    text-align: right;
+}
+
+.directorist-claim-listing__title{
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.directorist-claim-listing__description {
+    margin-bottom: 20px;
+}
+
+.directorist__login-notice {
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.directorist-claimed {
+    display: inline-block;
+    position: relative;
+    top: -6px;
+}
+
+.directorist-claimed--badge {
+    color: #32cc6f;
+    display: flex;
+    align-items: center;
+}
+
+.directorist-claimed--badge span {
+    color: #fff;
+    background: #32cc6f;
+    width: 17px;
+    height: 17px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 300px;
+    margin: -1px 0 0 0;
+    margin-left: 5px;
+}
+
+.directorist-claimed .directorist-claimed--badge span .fa {
+    font-size: 8px !important;
+}
+
+.directorist-claimed--tooltip {
+    position: absolute;
+    width: 140px;
+    right: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #444752;
+    color: #fff;
+    padding: 7px;
+    font-size: 13px;
+    margin-right: 15px;
+    border-radius: 3px;
+    line-height: 20px;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.3s ease;
+    text-align: center;
+    z-index: 1;
+}
+
+.directorist-claimed--tooltip::before {
+    content: '';
+    border-top: 7px solid transparent;
+    border-left: 10px solid #444752;
+    border-bottom: 7px solid transparent;
+    position: absolute;
+    right: -10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.directorist-claimed:hover .directorist-claimed--tooltip {
+    opacity: 1;
+    visibility: visible;
+}
+
+#directorist__claim-modal .at-modal-xl {
+    max-width: 1140px;
+}
+
+#directorist__claim-modal .atm-contents-inner .modal-header {
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#directorist__claim-modal .atm-contents-inner .modal-body {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#directorist__claim-modal .atm-contents-inner .modal-body .form-group .directorist__plans {
+    display: inline-block;
+    margin-top: 7px;
+    color: #e23636;
+    font-size: 12px;
+}
+
+#directorist__claim-modal .atm-contents-inner .modal-body .form-group .directorist__plans:hover {
+    color: #DB3B30;
+}
+
+.directorist-claimer__form label {
+    color: #272b41;
+    font-weight: 500;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.directorist-claim-listing-modal .directorist-modal__header {
+    padding: 25px !important;
+}
+
+.directorist-claim-listing-modal .directorist-modal__body {
+    padding: 30px;
+    position: relative;
+}
+
+.directorist-claim-listing-modal .directorist-modal__content .directorist-modal__header .directorist-modal-close ,
+#directorist__claim-modal .atm-contents-inner .at-modal-close {
+    width: 32px;
+    height: 32px;
+    top: 20px;
+    left: 20px;
+    position: absolute;
+    transform: none;
+    background: #444752 !important;
+    color: #fff !important;
+    border-radius: 300px;
+    opacity: 1;
+    font-weight: 300;
+    z-index: 2;
+    font-size: 16px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.directorist-claim-listing-modal .directorist-modal__header .directorist-modal-close span{
+    font-size: 20px;
+    margin-top: -5px;
+}
+
+#directorist__claim-modal .atm-contents-inner .close span {
+    display: block;
+    line-height: 0;
+}
+
+.directorist-claim-listing-modal .directorist-modal__footer {
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.directorist-claim-listing-modal .directorist-modal__footer span {
+    display: block;
+    margin-top: 15px;
+    font-size: 13px;
+    margin-right: 0;
+}
+
+.directorist-claim-listing-modal .directorist-modal__footer span i {
+    display: inline-block;
+    margin-left: 5px;
+    color: #32cc6f;
+}
+
+#directorist__claim-modal .directorist-pricing-plan label {
+    display: block;
+}
+
+#directorist__claim-modal .directorist-pricing-plan select {
+    width: 100%;
+    cursor: pointer;
+}
+
+#directorist__claim-modal .directorist-pricing-plan select .directorist__active-plan {
+    color: #32cc6f;
+}
+
+#directorist__plan-allowances {
+    margin-top: 15px;
+}
+
+#directorist__plan-allowances .atbd_listing_type h4 {
+    margin-bottom: 10px;
+}
+
+#directorist__plan-allowances .atbd_listing_type label+label {
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+#directorist__plan-allowances .atbd_listing_type {
+    padding-bottom: 10px;
+}
+
+#directorist-claimer__submit-notification.text-success {
+    color: #32cc6f;
+}
+
+#directorist-claimer__warning-notification.text-warning {
+    color: #ffaf00;
+}
+
+#directorist__plan-allowances .atbd_listing_type label {
+    position: relative;
+    padding-right: 25px;
+}
+
+#directorist__plan-allowances .atbd_listing_type label input[type="radio"] {
+    visibility: hidden;
+}
+
+#directorist__plan-allowances .atbd_listing_type label .atbd-check-circle {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: 1px solid #e3e6ef;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+    transition: 0.3s ease;
+}
+
+#directorist__plan-allowances .atbd_listing_type label input[type="radio"]:checked+.atbd-check-circle {
+    border: 5px solid #444752;
+}
+
+
+@media (max-width:576px) {
+    #directorist__claim-modal .at-modal-content {
+        top: 10%;
+        transform: none;
+    }
+
+    .directorist-claimed .directorist-claimed--tooltip {
+        right: 50%;
+        top: -10px;
+        transform: translate(50%, -100%);
+        margin-right: 0;
+    }
+
+    .directorist-claimed .directorist-claimed--tooltip::before {
+        border-left: 7px solid transparent;
+        border-top: 10px solid #444752;
+        border-right: 7px solid transparent;
+        right: 50%;
+        top: auto;
+        transform: translateX(50%);
+        bottom: -16px;
+    }
+}
+
+@media (max-width:767px) {
+    #directorist__claim-modal .at-modal-content {
+        top: 10%;
+        transform: none;
+    }
+}
+
+#claim_activated .input label span {
+    background: #008EC2;
+    width: 133px;
+    position: relative;
+    border-radius: 3px;
+    margin-top: 0;
+}
+
+#claim_activated .input label span:before {
+    content: 'Activate';
+    position: absolute;
+    color: #fff;
+    right: 50%;
+    top: 48%;
+    transform: translate(50%, -50%);
+    border-radius: 3px;
+}
+
+#claim_activated+#success_msg {
+    color: #4caf50;
+    padding-right: 15px;
+}
+
+#claim_activated+#error_msg {
+    color: #DC143C;
+    padding-right: 15px;
+}
+
+#claim_deactivated .input label span {
+    background: #d05157;
+    width: 182px;
+    position: relative;
+    border-radius: 3px;
+    margin-top: 0;
+    padding: 18px;
+}
+
+#claim_deactivated .input label span:before {
+    content: 'Deactivate';
+    position: absolute;
+    color: #fff;
+    right: 50%;
+    top: 48%;
+    transform: translate(50%, -50%);
+    border-radius: 3px;
+}
+
+#claim_deactivated+#success_msg {
+    color: #4caf50;
+    padding-right: 15px;
+}
+
+#claim_deactivated+#error_msg {
+    color: #DC143C;
+    padding-right: 15px;
+}
+
+.directorist-claim-listing-modal .directorist-modal-title{
+    font-size: 18px;
+    margin: 0;
+}
+
+.directorist-claim-listing-modal .directorist-form-group{
+    margin-bottom: 15px;
+}

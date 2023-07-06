@@ -1,0 +1,2 @@
+2023-06-19T12:25:13+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 288110944 bytes) in /home/t8q0za70thpx/public_html/wp-content/plugins/string-locator/views/editors/default.php on line 224
+

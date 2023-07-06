@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8616238744",
+    "project_id": "find-420",
+    "storage_bucket": "find-420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8616238744:android:0991e9f1d8fcb6cccd7aed",
+        "android_client_info": {
+          "package_name": "appfind420com.wpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8616238744-k41jar0ml8ghmf2bbq5d9edabri38qbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiUlPD1VaVAwTILjSsXCuHFEt5YRpx99Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8616238744-k41jar0ml8ghmf2bbq5d9edabri38qbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

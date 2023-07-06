@@ -1,0 +1,1435 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
+"POT-Creation-Date: 2022-06-16 08:45+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: directorist-booking.php:166 directorist-booking.php:220
+#: directorist-booking.php:260 directorist-booking.php:314
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: directorist-booking.php:174 directorist-booking.php:268
+msgid "Response not found!"
+msgstr ""
+
+#: directorist-booking.php:183 directorist-booking.php:277
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: directorist-booking.php:191 directorist-booking.php:285
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: directorist-booking.php:196 directorist-booking.php:290
+msgid "Invalid license."
+msgstr ""
+
+#: directorist-booking.php:203 directorist-booking.php:297
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: directorist-booking.php:209 directorist-booking.php:303
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: directorist-booking.php:215 directorist-booking.php:309
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: directorist-booking.php:227
+msgid "License deactivated successfully!"
+msgstr ""
+
+#: directorist-booking.php:233 directorist-booking.php:327
+msgid "License not found!"
+msgstr ""
+
+#: directorist-booking.php:321
+msgid "License activated successfully!"
+msgstr ""
+
+#: directorist-booking.php:353
+msgid "Apply"
+msgstr ""
+
+#: directorist-booking.php:354 templates/booking-calender.php:93
+#: templates/bookings/content-booking.php:209
+#: templates/bookings/content-user-booking.php:214
+msgid "Cancel"
+msgstr ""
+
+#: directorist-booking.php:355
+msgid "Clear"
+msgstr ""
+
+#: directorist-booking.php:356
+msgid "From"
+msgstr ""
+
+#: directorist-booking.php:357
+msgid "To"
+msgstr ""
+
+#: directorist-booking.php:358
+msgid "Custom"
+msgstr ""
+
+#: directorist-booking.php:359
+msgctxt "Short for Sunday"
+msgid "Su"
+msgstr ""
+
+#: directorist-booking.php:360
+msgctxt "Short for Monday"
+msgid "Mo"
+msgstr ""
+
+#: directorist-booking.php:361
+msgctxt "Short for Tuesday"
+msgid "Tu"
+msgstr ""
+
+#: directorist-booking.php:362
+msgctxt "Short for Wednesday"
+msgid "We"
+msgstr ""
+
+#: directorist-booking.php:363
+msgctxt "Short for Thursday"
+msgid "Th"
+msgstr ""
+
+#: directorist-booking.php:364
+msgctxt "Short for Friday"
+msgid "Fr"
+msgstr ""
+
+#: directorist-booking.php:365
+msgctxt "Short for Saturday"
+msgid "Sa"
+msgstr ""
+
+#: directorist-booking.php:366
+msgid "Are you sure?"
+msgstr ""
+
+#: directorist-booking.php:383 directorist-booking.php:418
+#: directorist-booking.php:706 directorist-booking.php:753
+msgid "Are you sure"
+msgstr ""
+
+#: directorist-booking.php:384 directorist-booking.php:419
+#: directorist-booking.php:707 directorist-booking.php:754
+msgid "Do you really want to remove!"
+msgstr ""
+
+#: directorist-booking.php:385 directorist-booking.php:420
+#: directorist-booking.php:708 directorist-booking.php:755
+msgid "Yes, Delete it!"
+msgstr ""
+
+#: directorist-booking.php:386 directorist-booking.php:421
+#: directorist-booking.php:709 directorist-booking.php:756
+msgid "Deleted!"
+msgstr ""
+
+#: directorist-booking.php:389 directorist-booking.php:424
+#: inc/helper.php:52
+msgid "Time From"
+msgstr ""
+
+#: directorist-booking.php:390 directorist-booking.php:425
+#: inc/helper.php:58
+msgid "Time To"
+msgstr ""
+
+#: directorist-booking.php:391 directorist-booking.php:426
+#: inc/helper.php:64
+msgid "Slots"
+msgstr ""
+
+#: directorist-booking.php:399 inc/booking-database.php:1003
+#: inc/form-builder.php:116 templates/booking-fields.php:167
+#: templates/widget-template.php:73
+msgid "Monday"
+msgstr ""
+
+#: directorist-booking.php:400 inc/booking-database.php:1004
+#: inc/form-builder.php:117 templates/booking-fields.php:168
+#: templates/widget-template.php:74
+msgid "Tuesday"
+msgstr ""
+
+#: directorist-booking.php:401 inc/booking-database.php:1005
+#: inc/form-builder.php:118 templates/booking-fields.php:169
+#: templates/widget-template.php:75
+msgid "Wednesday"
+msgstr ""
+
+#: directorist-booking.php:402 inc/booking-database.php:1006
+#: inc/form-builder.php:119 templates/booking-fields.php:170
+#: templates/widget-template.php:76
+msgid "Thursday"
+msgstr ""
+
+#: directorist-booking.php:403 inc/booking-database.php:1007
+#: inc/form-builder.php:120 templates/booking-fields.php:171
+#: templates/widget-template.php:77
+msgid "Friday"
+msgstr ""
+
+#: directorist-booking.php:404 inc/booking-database.php:1008
+#: inc/form-builder.php:121 templates/booking-fields.php:172
+#: templates/widget-template.php:78
+msgid "Saturday"
+msgstr ""
+
+#: directorist-booking.php:405 inc/booking-database.php:1009
+#: inc/form-builder.php:122 templates/booking-fields.php:173
+#: templates/widget-template.php:79
+msgid "Sunday"
+msgstr ""
+
+#: directorist-booking.php:463 directorist-booking.php:476
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: directorist-booking.php:603 directorist-booking.php:635
+#: directorist-booking.php:751 directorist-booking.php:770
+#: inc/booking-payment.php:34 inc/booking-settings.php:28
+#: inc/booking-settings.php:91 inc/booking-settings.php:296
+#: inc/booking-settings.php:396 inc/form-builder.php:86
+msgid "Booking"
+msgstr ""
+
+#: directorist-booking.php:622 directorist-booking.php:629
+msgid "Action"
+msgstr ""
+
+#: directorist-booking.php:636
+msgid "You can active your Booking extension here."
+msgstr ""
+
+#: directorist-booking.php:641
+msgid "License"
+msgstr ""
+
+#: directorist-booking.php:642
+msgid "Enter your Booking extension license"
+msgstr ""
+
+#: directorist-booking.php:665 inc/booking-settings.php:144
+msgid "Booking Confirmation Page"
+msgstr ""
+
+#: directorist-booking.php:667 inc/booking-settings.php:146
+#, php-format
+msgid "Following shortcode must be in the selected page %s"
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:228
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details"
+"%4$s."
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:236
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details"
+"%4$s or %5$supdate now%6$s."
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:474
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:474
+msgid "Error"
+msgstr ""
+
+#: inc/booking-dashboard.php:29
+msgid "Booking Calender"
+msgstr ""
+
+#: inc/booking-dashboard.php:58 inc/booking-dashboard.php:243
+msgid "All Bookings"
+msgstr ""
+
+#: inc/booking-dashboard.php:60 inc/booking-dashboard.php:245
+#: templates/bookings/content-booking.php:22
+#: templates/bookings/content-booking.php:37
+#: templates/bookings/content-user-booking.php:20
+#: templates/bookings/content-user-booking.php:32
+msgid "Approved"
+msgstr ""
+
+#: inc/booking-dashboard.php:61 inc/booking-dashboard.php:246
+#: inc/commission/wallet.php:150 inc/commission/wallet.php:314
+#: templates/bookings/content-booking.php:14
+msgid "Pending"
+msgstr ""
+
+#: inc/booking-dashboard.php:62 inc/booking-dashboard.php:247
+#: templates/bookings/content-user-booking.php:44
+msgid "Cancelled"
+msgstr ""
+
+#: inc/booking-dashboard.php:179 inc/booking-dashboard.php:232
+msgid "My Bookings"
+msgstr ""
+
+#: inc/booking-database.php:40
+msgid "Email already registered. Please login first"
+msgstr ""
+
+#: inc/booking-database.php:73
+msgid "Sorry, you can't access"
+msgstr ""
+
+#: inc/booking-database.php:96
+msgid "Free"
+msgstr ""
+
+#: inc/booking-database.php:224 inc/booking-payment.php:153
+msgid "Unfortunately those dates are not available anymore."
+msgstr ""
+
+#: inc/booking-database.php:328 inc/booking-payment.php:257
+msgid "Those dates are not available."
+msgstr ""
+
+#: inc/booking-database.php:339
+msgid ""
+"We have some technical problem, please try again later or contact "
+"administrator."
+msgstr ""
+
+#: inc/booking-database.php:347
+msgid "Your booking is waiting for confirmation."
+msgstr ""
+
+#: inc/booking-database.php:360
+msgid "Your booking was cancelled"
+msgstr ""
+
+#: inc/booking-database.php:476 inc/booking-settings.php:170
+msgid "Booking request for ==LISTING_TITLE== submitted successfully "
+msgstr ""
+
+#: inc/booking-database.php:478
+msgid ""
+"Welcome ==USERNAME_WHO_BOOKED==,\n"
+"\n"
+"                Your booking request has been submitted successfully "
+"and is waiting to be approved by the owner.\n"
+"\n"
+"                Regards\n"
+"                "
+msgstr ""
+
+#: inc/booking-database.php:495 inc/booking-settings.php:154
+msgid "New booking request for ==LISTING_TITLE=="
+msgstr ""
+
+#: inc/booking-database.php:499
+msgid ""
+"\n"
+"                Dear ==LISTING_OWNER==,\n"
+"\n"
+"                You have received a new reservation from "
+"==USER_EMAIL== for ==LISTING_TITLE== and is waiting to be approved in "
+"your Dashboard! ==CLICK_HERE== to review it.\n"
+"\n"
+"                Regards,\n"
+"                "
+msgstr ""
+
+#: inc/booking-database.php:522 inc/booking-settings.php:185
+msgid "Booking confirmation for ==LISTING_TITLE=="
+msgstr ""
+
+#: inc/booking-database.php:524
+msgid ""
+"Hello ==USERNAME_WHO_BOOKED==,\n"
+"\n"
+"                Congratulations! Your booking for ==LISTING_TITLE== "
+"has been confirmed.\n"
+"\n"
+"                Regards,\n"
+"                "
+msgstr ""
+
+#: inc/booking-database.php:555 inc/booking-settings.php:200
+msgid "New payment received for \"==LISTING_TITLE==\""
+msgstr ""
+
+#: inc/booking-database.php:556
+msgid ""
+"Hello ==LISTING_OWNER==,\n"
+"\n"
+"                You have received a new payment from "
+"==USERNAME_WHO_BOOKED== for ==LISTING_TITLE==.\n"
+"\n"
+"                Regards,\n"
+"                "
+msgstr ""
+
+#: inc/booking-database.php:574 inc/booking-settings.php:216
+msgid "Payment confirmation for ==LISTING_TITLE=="
+msgstr ""
+
+#: inc/booking-database.php:575
+msgid ""
+"Hello ==USERNAME_WHO_BOOKED==,\n"
+"\n"
+"                You have successfully made a payment for "
+"==LISTING_TITLE==.\n"
+"\n"
+"                Thank you,\n"
+"                "
+msgstr ""
+
+#: inc/booking-database.php:599 inc/booking-settings.php:231
+msgid "Booking Cancellation for ==LISTING_TITLE=="
+msgstr ""
+
+#: inc/booking-database.php:601
+msgid ""
+"Hello ==USERNAME_WHO_BOOKED==,\n"
+"\n"
+"                Your booking for ==LISTING_TITLE== has been "
+"cancelled.\n"
+"\n"
+"                Regards,\n"
+"                "
+msgstr ""
+
+#: inc/booking-database.php:656
+msgid "Click Here"
+msgstr ""
+
+#: inc/booking-database.php:734
+msgid "owner reservations"
+msgstr ""
+
+#: inc/booking-payment.php:268 inc/booking-payment.php:276
+msgid "Booking for "
+msgstr ""
+
+#: inc/booking-payment.php:277
+msgid "Booking charge for this listing "
+msgstr ""
+
+#: inc/booking-payment.php:398
+msgid "Go to My Bookings"
+msgstr ""
+
+#: inc/booking-settings.php:31
+msgid "Allow users add and display booking for a listing."
+msgstr ""
+
+#: inc/booking-settings.php:34 inc/booking-settings.php:328
+msgid "Enable Guest Booking"
+msgstr ""
+
+#: inc/booking-settings.php:40 inc/booking-settings.php:334
+msgid "Commission Rate"
+msgstr ""
+
+#: inc/booking-settings.php:41 inc/booking-settings.php:335
+#, php-format
+msgid "Set commission % for bookings"
+msgstr ""
+
+#: inc/booking-settings.php:45 inc/booking-settings.php:341
+msgid "Booking Hiding Option"
+msgstr ""
+
+#: inc/booking-settings.php:51 inc/booking-settings.php:347
+msgid "Booking Hiding Label"
+msgstr ""
+
+#: inc/booking-settings.php:52 inc/booking-settings.php:348
+msgid "Check It to Hide Booking"
+msgstr ""
+
+#: inc/booking-settings.php:55 inc/booking-settings.php:80
+#: inc/booking-settings.php:353 inc/booking-settings.php:377
+msgid "Booking Type"
+msgstr ""
+
+#: inc/booking-settings.php:61 inc/booking-settings.php:357
+msgid "Service Booking"
+msgstr ""
+
+#: inc/booking-settings.php:65 inc/booking-settings.php:361
+msgid "Event Booking"
+msgstr ""
+
+#: inc/booking-settings.php:69
+msgid "Rental Booking"
+msgstr ""
+
+#: inc/booking-settings.php:73
+msgid "All"
+msgstr ""
+
+#: inc/booking-settings.php:79 inc/booking-settings.php:376
+msgid "Booking Type Label"
+msgstr ""
+
+#: inc/booking-settings.php:83 inc/booking-settings.php:382
+msgid "Booking Timing Type"
+msgstr ""
+
+#: inc/booking-settings.php:90 inc/booking-settings.php:395
+msgid "Section Label"
+msgstr ""
+
+#: inc/booking-settings.php:95 inc/booking-settings.php:401
+msgid "Timing Type Label"
+msgstr ""
+
+#: inc/booking-settings.php:96 inc/booking-settings.php:402
+#: templates/booking-fields.php:28
+msgid "Choose Timing Type"
+msgstr ""
+
+#: inc/booking-settings.php:100 inc/booking-settings.php:407
+msgid "Enable Instant Booking Label"
+msgstr ""
+
+#: inc/booking-settings.php:101 inc/booking-settings.php:408
+#: templates/booking-fields.php:31
+msgid "Enable Instant Booking"
+msgstr ""
+
+#: inc/booking-settings.php:105 inc/booking-settings.php:419
+msgid "Maximum Guests Label"
+msgstr ""
+
+#: inc/booking-settings.php:106 inc/booking-settings.php:420
+#: templates/booking-fields.php:33 templates/booking-fields.php:272
+msgid "Maximum Number of Guests"
+msgstr ""
+
+#: inc/booking-settings.php:110 inc/booking-settings.php:433
+msgid "Available Ticket Label"
+msgstr ""
+
+#: inc/booking-settings.php:111 inc/booking-settings.php:434
+#: templates/booking-fields.php:34
+msgid "Available Tickets"
+msgstr ""
+
+#: inc/booking-settings.php:115
+msgid ""
+"Tickets Allowed Per Booking\n"
+"            Label"
+msgstr ""
+
+#: inc/booking-settings.php:117 templates/booking-fields.php:98
+msgid "Tickets allowed per booking"
+msgstr ""
+
+#: inc/booking-settings.php:121
+msgid ""
+"Request Booking\n"
+"            Label"
+msgstr ""
+
+#: inc/booking-settings.php:123 templates/booking.php:3
+#: templates/widget-template.php:29
+msgid "Request Booking"
+msgstr ""
+
+#: inc/booking-settings.php:127
+msgid ""
+"Book Ticket\n"
+"            Label"
+msgstr ""
+
+#: inc/booking-settings.php:129 templates/booking.php:121
+#: templates/widget-template.php:29
+msgid "Book Ticket"
+msgstr ""
+
+#: inc/booking-settings.php:133
+msgid ""
+"Login for Booking\n"
+"            Label"
+msgstr ""
+
+#: inc/booking-settings.php:135 templates/booking.php:122
+#: templates/widget-template.php:30
+msgid "Login for Booking"
+msgstr ""
+
+#: inc/booking-settings.php:139
+msgid ""
+"Reservation Fee\n"
+"            Label"
+msgstr ""
+
+#: inc/booking-settings.php:141 templates/booking-fields.php:32
+#: templates/booking-fields.php:252 templates/booking.php:4
+#: templates/widget-template.php:31
+msgid "Reservation Fee"
+msgstr ""
+
+#: inc/booking-settings.php:153 inc/booking-settings.php:169
+#: inc/booking-settings.php:184 inc/booking-settings.php:199
+#: inc/booking-settings.php:215 inc/booking-settings.php:230
+msgid "Email Subject"
+msgstr ""
+
+#: inc/booking-settings.php:158 inc/booking-settings.php:174
+#: inc/booking-settings.php:189 inc/booking-settings.php:204
+#: inc/booking-settings.php:220 inc/booking-settings.php:235
+msgid "Email Body"
+msgstr ""
+
+#: inc/booking-settings.php:159
+msgid ""
+"\n"
+"            Dear ==LISTING_OWNER==,\n"
+"\n"
+"            You have received a new reservation from ==USER_EMAIL== "
+"for ==LISTING_TITLE== and is waiting to be approved in your Dashboard! "
+"==CLICK_HERE== to review it.\n"
+"\n"
+"            Regards,\n"
+"            "
+msgstr ""
+
+#: inc/booking-settings.php:175
+msgid ""
+"Welcome ==USERNAME_WHO_BOOKED==,\n"
+"\n"
+"            Your booking request has been submitted successfully and "
+"is waiting to be approved by the owner.\n"
+"            \n"
+"            Regards\n"
+"            "
+msgstr ""
+
+#: inc/booking-settings.php:190
+msgid ""
+"Hello ==USERNAME_WHO_BOOKED==,\n"
+"\n"
+"            Congratulations! Your booking for ==LISTING_TITLE== has "
+"been confirmed.\n"
+"            \n"
+"            Regards,\n"
+"            "
+msgstr ""
+
+#: inc/booking-settings.php:205
+msgid ""
+"Hello ==LISTING_OWNER==,\n"
+"\n"
+"            The admin has received a new payment from "
+"==USERNAME_WHO_BOOKED== for ==LISTING_TITLE==.\n"
+"            \n"
+"            Regards,\n"
+"            "
+msgstr ""
+
+#: inc/booking-settings.php:221
+msgid ""
+"Hello ==USERNAME_WHO_BOOKED==,\n"
+"\n"
+"            You have successfully made a payment for "
+"==LISTING_TITLE==.\n"
+"            \n"
+"            Thank you,\n"
+"            "
+msgstr ""
+
+#: inc/booking-settings.php:236
+msgid ""
+"Hello ==USERNAME_WHO_BOOKED==,\n"
+"\n"
+"            Your booking for ==LISTING_TITLE== has been cancelled.\n"
+"            \n"
+"            Regards,\n"
+"            "
+msgstr ""
+
+#: inc/booking-settings.php:249
+msgid "For Booking Waiting ( Listing Owner )"
+msgstr ""
+
+#: inc/booking-settings.php:256
+msgid "For Booking Waiting ( User )"
+msgstr ""
+
+#: inc/booking-settings.php:263
+msgid "For Booking Approved ( User )"
+msgstr ""
+
+#: inc/booking-settings.php:270
+msgid "For Booking Paid ( Listing Owner )"
+msgstr ""
+
+#: inc/booking-settings.php:277
+msgid "For Booking Paid ( User )"
+msgstr ""
+
+#: inc/booking-settings.php:284
+msgid "For Booking Cancellation ( User )"
+msgstr ""
+
+#: inc/booking-settings.php:301
+msgid "You can Customize the form of Booking Extension here"
+msgstr ""
+
+#: inc/booking-settings.php:305
+msgid "Service Fields"
+msgstr ""
+
+#: inc/booking-settings.php:309
+msgid "Event Fields"
+msgstr ""
+
+#: inc/booking-settings.php:313
+msgid "Single Listing"
+msgstr ""
+
+#: inc/booking-settings.php:365 inc/booking-settings.php:370
+msgid "Both"
+msgstr ""
+
+#: inc/booking-settings.php:439
+msgid ""
+"Tickets Allowed Per Booking\n"
+" Label"
+msgstr ""
+
+#: inc/booking-settings.php:441
+msgid "Tickets allowed per booking\n"
+msgstr ""
+
+#: inc/commission/commission.php:29
+msgctxt "Post type general name"
+msgid "Users balances"
+msgstr ""
+
+#: inc/commission/commission.php:30
+msgctxt "Post type singular name"
+msgid "Commission"
+msgstr ""
+
+#: inc/commission/commission.php:31
+msgctxt "Admin Menu text"
+msgid "Commissions"
+msgstr ""
+
+#: inc/commission/commission.php:32
+msgctxt "Add New on Toolbar"
+msgid "Commission"
+msgstr ""
+
+#: inc/commission/commission.php:33
+msgid "New Commission"
+msgstr ""
+
+#: inc/commission/commission.php:34
+msgid "Edit Commission"
+msgstr ""
+
+#: inc/commission/commission.php:35
+msgid "View Commission"
+msgstr ""
+
+#: inc/commission/commission.php:36
+msgid "All Commissions"
+msgstr ""
+
+#: inc/commission/commission.php:37
+msgid "Search Commissions"
+msgstr ""
+
+#: inc/commission/commission.php:38
+msgid "Parent Commissions:"
+msgstr ""
+
+#: inc/commission/commission.php:39
+msgid "No Commissions found."
+msgstr ""
+
+#: inc/commission/commission.php:40
+msgid "No Commissions found in Trash."
+msgstr ""
+
+#: inc/commission/commission.php:68
+msgctxt "Post type general name"
+msgid "Payouts History"
+msgstr ""
+
+#: inc/commission/commission.php:69
+msgctxt "Post type singular name"
+msgid "Payout"
+msgstr ""
+
+#: inc/commission/commission.php:70
+msgctxt "Admin Menu text"
+msgid "Payouts History"
+msgstr ""
+
+#: inc/commission/commission.php:71
+msgctxt "Add New on Toolbar"
+msgid "Payouts History"
+msgstr ""
+
+#: inc/commission/commission.php:72
+msgid "New Payouts History"
+msgstr ""
+
+#: inc/commission/commission.php:73
+msgid "Edit Payouts History"
+msgstr ""
+
+#: inc/commission/commission.php:74
+msgid "View Payouts History"
+msgstr ""
+
+#: inc/commission/commission.php:75
+msgid "Payouts History"
+msgstr ""
+
+#: inc/commission/commission.php:76
+msgid "Search Payouts History"
+msgstr ""
+
+#: inc/commission/commission.php:77
+msgid "Parent Payouts History:"
+msgstr ""
+
+#: inc/commission/commission.php:78
+msgid "No Payout History found."
+msgstr ""
+
+#: inc/commission/commission.php:79
+msgid "No Payouts History found in Trash."
+msgstr ""
+
+#: inc/commission/commission.php:113 inc/commission/commission.php:163
+msgid "User Name"
+msgstr ""
+
+#: inc/commission/commission.php:114
+msgid "Balance to Pay"
+msgstr ""
+
+#: inc/commission/commission.php:115
+msgid "Orders Count"
+msgstr ""
+
+#: inc/commission/commission.php:116 inc/commission/commission.php:165
+#: inc/commission/commission.php:264
+msgid "Payment Method"
+msgstr ""
+
+#: inc/commission/commission.php:164 templates/booking-wallet.php:91
+msgid "Amount"
+msgstr ""
+
+#: inc/commission/commission.php:166 inc/commission/commission.php:276
+#: templates/booking-wallet.php:49 templates/booking-wallet.php:93
+#: templates/booking.php:47 templates/widget-template.php:91
+msgid "Date"
+msgstr ""
+
+#: inc/commission/commission.php:205 templates/booking-wallet.php:187
+msgid "Details"
+msgstr ""
+
+#: inc/commission/commission.php:225 inc/commission/commission.php:383
+msgid "No Payment Method"
+msgstr ""
+
+#: inc/commission/commission.php:262
+msgid "Payment for"
+msgstr ""
+
+#: inc/commission/commission.php:263
+msgid "Payment Amount"
+msgstr ""
+
+#: inc/commission/commission.php:265
+msgid "Payment Details"
+msgstr ""
+
+#: inc/commission/commission.php:271
+msgid "Listing Name"
+msgstr ""
+
+#: inc/commission/commission.php:272
+msgid "Total Order value"
+msgstr ""
+
+#: inc/commission/commission.php:273
+msgid "Site Fee"
+msgstr ""
+
+#: inc/commission/commission.php:274
+msgid "User Earning"
+msgstr ""
+
+#: inc/commission/commission.php:275 templates/booking-wallet.php:48
+msgid "Order ID"
+msgstr ""
+
+#: inc/commission/commission.php:306 inc/commission/commission.php:337
+msgid "Payment"
+msgstr ""
+
+#: inc/commission/commission.php:359
+msgid "Error updating post."
+msgstr ""
+
+#: inc/commission/commission.php:448
+msgid "Paypal email field is required"
+msgstr ""
+
+#: inc/commission/commission.php:450
+msgid "Other details field is required"
+msgstr ""
+
+#: inc/commission/commission.php:452
+msgid "Bank details field is required"
+msgstr ""
+
+#: inc/commission/commission.php:456
+msgid "Please select any payment method."
+msgstr ""
+
+#: inc/commission/commission.php:462
+msgid "Successfully Saved"
+msgstr ""
+
+#: inc/commission/wallet.php:17 inc/commission/wallet.php:180
+msgid "My Wallet"
+msgstr ""
+
+#: inc/commission/wallet.php:165 inc/commission/wallet.php:329
+msgid "Completed"
+msgstr ""
+
+#: inc/form-builder.php:196
+msgid "Booking Guests"
+msgstr ""
+
+#: inc/form-builder.php:201
+msgid "Label"
+msgstr ""
+
+#: inc/form-builder.php:202
+msgid "Guests"
+msgstr ""
+
+#: inc/form-builder.php:206
+msgid "Placeholder"
+msgstr ""
+
+#: inc/form-builder.php:211 inc/form-builder.php:233
+msgid "Required"
+msgstr ""
+
+#: inc/form-builder.php:218
+msgid "Check-in - Check-out"
+msgstr ""
+
+#: inc/form-builder.php:223
+msgid "Label - Checkin"
+msgstr ""
+
+#: inc/form-builder.php:228
+msgid "Label - Checkout"
+msgstr ""
+
+#: inc/helper.php:206
+msgid "No details"
+msgstr ""
+
+#: templates/all-bookings.php:52
+msgid "Your Bookings"
+msgstr ""
+
+#: templates/all-bookings.php:52
+msgid "Booking Requests"
+msgstr ""
+
+#: templates/all-bookings.php:96
+msgid "All Listings"
+msgstr ""
+
+#: templates/all-bookings.php:113
+msgid "We haven't found any bookings for that criteria"
+msgstr ""
+
+#: templates/all-bookings.php:117
+msgid "You don't have any bookings yet"
+msgstr ""
+
+#: templates/booking-calender.php:20
+msgid "Add New Booking"
+msgstr ""
+
+#: templates/booking-calender.php:30
+msgid "Preference"
+msgstr ""
+
+#: templates/booking-calender.php:32 templates/booking-calender.php:53
+#: templates/booking-calender.php:63
+msgid "Choose..."
+msgstr ""
+
+#: templates/booking-calender.php:33 templates/booking-calender.php:54
+#: templates/booking-calender.php:64
+msgid "One"
+msgstr ""
+
+#: templates/booking-calender.php:34 templates/booking-calender.php:55
+#: templates/booking-calender.php:65
+msgid "Two"
+msgstr ""
+
+#: templates/booking-calender.php:35 templates/booking-calender.php:56
+#: templates/booking-calender.php:66
+msgid "Three"
+msgstr ""
+
+#: templates/booking-calender.php:39
+msgid "Check In"
+msgstr ""
+
+#: templates/booking-calender.php:45
+msgid "Check Out"
+msgstr ""
+
+#: templates/booking-calender.php:51
+msgid "Adult"
+msgstr ""
+
+#: templates/booking-calender.php:61
+msgid "Children"
+msgstr ""
+
+#: templates/booking-calender.php:70
+msgid "Name"
+msgstr ""
+
+#: templates/booking-calender.php:75
+msgid "Email"
+msgstr ""
+
+#: templates/booking-calender.php:80
+msgid "Phone Number"
+msgstr ""
+
+#: templates/booking-calender.php:85
+msgid "Address"
+msgstr ""
+
+#: templates/booking-calender.php:94
+msgid "Add Booking"
+msgstr ""
+
+#: templates/booking-calender.php:99
+msgid "Booking Calendar"
+msgstr ""
+
+#: templates/booking-confirmation.php:37
+msgid "Date :"
+msgstr ""
+
+#: templates/booking-confirmation.php:41
+msgid "Time :"
+msgstr ""
+
+#: templates/booking-confirmation.php:47
+msgid "Guests :"
+msgstr ""
+
+#: templates/booking-confirmation.php:55
+msgid "Ticket :"
+msgstr ""
+
+#: templates/booking-confirmation.php:62
+msgid "Total Cost"
+msgstr ""
+
+#: templates/booking-confirmation.php:71
+msgid "Personal Details"
+msgstr ""
+
+#: templates/booking-confirmation.php:82
+msgid "Full Name"
+msgstr ""
+
+#: templates/booking-confirmation.php:88
+msgid "E-Mail Address"
+msgstr ""
+
+#: templates/booking-confirmation.php:96
+msgid "Phone"
+msgstr ""
+
+#: templates/booking-confirmation.php:104
+msgid "Message"
+msgstr ""
+
+#: templates/booking-confirmation.php:106
+msgid "Your short message to the listing owner (optional)"
+msgstr ""
+
+#: templates/booking-confirmation.php:116
+msgid "Confirm"
+msgstr ""
+
+#: templates/booking-fields.php:29 templates/booking-fields.php:46
+msgid "Check it to hide booking"
+msgstr ""
+
+#: templates/booking-fields.php:30
+msgid "Enable Payment"
+msgstr ""
+
+#: templates/booking-fields.php:35
+msgid "Tickets Allowed Per Booking"
+msgstr ""
+
+#: templates/booking-fields.php:58
+msgid "Service"
+msgstr ""
+
+#: templates/booking-fields.php:62
+msgid "Event"
+msgstr ""
+
+#: templates/booking-fields.php:66
+msgid "Rent"
+msgstr ""
+
+#: templates/booking-fields.php:79
+msgid "Display Available Tickets"
+msgstr ""
+
+#: templates/booking-fields.php:84
+msgid "Available Tickets Text"
+msgstr ""
+
+#: templates/booking-fields.php:107
+msgid ""
+"Choose your preferred timing type. The Time Slot option lets listing "
+"owners set their availability of services and the Time Picker option "
+"allows users to pick their preferred booking time for a service.\n"
+msgstr ""
+
+#: templates/booking-fields.php:113
+msgid "Time Slot"
+msgstr ""
+
+#: templates/booking-fields.php:118
+msgid "Time Picker"
+msgstr ""
+
+#: templates/booking-fields.php:184
+msgid "Add Hours"
+msgstr ""
+
+#: templates/booking-fields.php:226
+msgid "Save"
+msgstr ""
+
+#: templates/booking-fields.php:252
+msgid "One time fee for booking"
+msgstr ""
+
+#: templates/booking-fields.php:262
+msgid "Weekend Price"
+msgstr ""
+
+#: templates/booking-fields.php:262
+msgid "Default price for weekend"
+msgstr ""
+
+#: templates/booking-fields.php:272
+msgid "Choose Maximum number of Guests Per Reservation."
+msgstr ""
+
+#: templates/booking-fields.php:282
+msgid "Enable Payment "
+msgstr ""
+
+#: templates/booking-fields.php:282
+msgid "Enable it to let users pay a booking fee."
+msgstr ""
+
+#: templates/booking-fields.php:288
+msgid "Enable Instant Booking "
+msgstr ""
+
+#: templates/booking-fields.php:288
+msgid "Enable it to instantly approve booking requests."
+msgstr ""
+
+#: templates/booking-success.php:5
+msgid "Oops, we have some problem."
+msgstr ""
+
+#: templates/booking-success.php:13
+msgid "Thank you for your booking!"
+msgstr ""
+
+#: templates/booking-wallet.php:9
+msgid "Wallet"
+msgstr ""
+
+#: templates/booking-wallet.php:19
+msgid "Available Balance"
+msgstr ""
+
+#: templates/booking-wallet.php:27
+msgid "Total Earnings"
+msgstr ""
+
+#: templates/booking-wallet.php:35
+msgid "Total Orders"
+msgstr ""
+
+#: templates/booking-wallet.php:41 templates/booking-wallet.php:52
+msgid "Earnings"
+msgstr ""
+
+#: templates/booking-wallet.php:41 templates/booking-wallet.php:51
+msgid "Fee"
+msgstr ""
+
+#: templates/booking-wallet.php:47
+msgid "Items"
+msgstr ""
+
+#: templates/booking-wallet.php:50
+msgid "Price"
+msgstr ""
+
+#: templates/booking-wallet.php:53
+msgid "Status"
+msgstr ""
+
+#: templates/booking-wallet.php:85
+msgid "Payout History"
+msgstr ""
+
+#: templates/booking-wallet.php:92 templates/booking-wallet.php:146
+msgid "Payout Method"
+msgstr ""
+
+#: templates/booking-wallet.php:154
+msgid "Paypal"
+msgstr ""
+
+#: templates/booking-wallet.php:159
+msgid "Paypal Email"
+msgstr ""
+
+#: templates/booking-wallet.php:168
+msgid "Bank Transfer"
+msgstr ""
+
+#: templates/booking-wallet.php:173
+msgid "Bank Details"
+msgstr ""
+
+#: templates/booking-wallet.php:182
+msgid "Other"
+msgstr ""
+
+#: templates/booking-wallet.php:194
+msgid "Save Card"
+msgstr ""
+
+#: templates/booking.php:55 templates/widget-template.php:100
+msgid "Time Slots"
+msgstr ""
+
+#: templates/booking.php:58 templates/widget-template.php:103
+msgid "No slots for this day"
+msgstr ""
+
+#: templates/booking.php:99 templates/widget-template.php:147
+msgid "Available Time"
+msgstr ""
+
+#: templates/booking.php:134 templates/widget-template.php:175
+msgid "Qty"
+msgstr ""
+
+#: templates/booking.php:143 templates/widget-template.php:184
+msgid "The tickets have sold out"
+msgstr ""
+
+#: templates/booking.php:149 templates/widget-template.php:190
+msgid "Guest"
+msgstr ""
+
+#: templates/booking.php:153 templates/widget-template.php:194
+msgid "Person"
+msgstr ""
+
+#: templates/booking.php:171 templates/widget-template.php:212
+msgid "Available Tickets :"
+msgstr ""
+
+#: templates/booking.php:180 templates/widget-template.php:221
+msgid ""
+"Unfortunately this request can't be processed. Try different dates "
+"please."
+msgstr ""
+
+#: templates/bookings/content-booking.php:25
+#: templates/bookings/content-user-booking.php:22
+msgid "Processing Payment"
+msgstr ""
+
+#: templates/bookings/content-booking.php:39
+#: templates/bookings/content-user-booking.php:34
+msgid "Paid"
+msgstr ""
+
+#: templates/bookings/content-booking.php:50
+msgid "Canceled"
+msgstr ""
+
+#: templates/bookings/content-booking.php:97
+#: templates/bookings/content-user-booking.php:93
+msgid "Booking Date:"
+msgstr ""
+
+#: templates/bookings/content-booking.php:106
+#: templates/bookings/content-booking.php:115
+#: templates/bookings/content-booking.php:202
+#: templates/bookings/content-user-booking.php:106
+#: templates/bookings/content-user-booking.php:117
+msgid "at"
+msgstr ""
+
+#: templates/bookings/content-booking.php:134
+msgid "Guests:"
+msgstr ""
+
+#: templates/bookings/content-booking.php:138
+#: templates/bookings/content-user-booking.php:140
+#, php-format
+msgid "%d Child"
+msgid_plural "%s Children"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/bookings/content-booking.php:141
+#: templates/bookings/content-user-booking.php:143
+#, php-format
+msgid "%d Guest"
+msgid_plural "%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/bookings/content-booking.php:144
+#: templates/bookings/content-user-booking.php:146
+#, php-format
+msgid "%d Ticket"
+msgid_plural "%s Tickets"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/bookings/content-booking.php:157
+msgid "Price:"
+msgstr ""
+
+#: templates/bookings/content-booking.php:170
+#: templates/bookings/content-user-booking.php:173
+msgid "Client:"
+msgstr ""
+
+#: templates/bookings/content-booking.php:184
+#: templates/bookings/content-user-booking.php:191
+msgid "Extra Services:"
+msgstr ""
+
+#: templates/bookings/content-booking.php:190
+#: templates/bookings/content-user-booking.php:197
+msgid "Message:"
+msgstr ""
+
+#: templates/bookings/content-booking.php:199
+msgid "Request sent:"
+msgstr ""
+
+#: templates/bookings/content-booking.php:212
+msgid "Approve"
+msgstr ""
+
+#: templates/bookings/content-booking.php:215
+msgid "Reject"
+msgstr ""
+
+#: templates/bookings/content-booking.php:218
+msgid "Delete"
+msgstr ""
+
+#: templates/bookings/content-user-booking.php:12
+msgid "Waiting"
+msgstr ""
+
+#: templates/bookings/content-user-booking.php:135
+msgid "Booking Details:"
+msgstr ""
+
+#: templates/bookings/content-user-booking.php:205
+msgid "Booking requested on:"
+msgstr ""
+
+#: widget/class-booking-widget.php:17
+msgid "You can show booking system by this widget"
+msgstr ""
+
+#: widget/class-booking-widget.php:21
+msgid "Directorist - Booking"
+msgstr ""
+
+#: widget/class-booking-widget.php:41 widget/class-booking-widget.php:62
+msgid "Directorist Booking"
+msgstr ""
+
+#: widget/class-booking-widget.php:65
+msgid "Title:"
+msgstr ""

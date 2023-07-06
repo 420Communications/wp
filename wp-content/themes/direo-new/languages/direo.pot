@@ -1,0 +1,2292 @@
+# Copyright (C) 2023 direo
+# This file is distributed under the same license as the direo package.
+msgid ""
+msgstr ""
+"Project-Id-Version: direo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: sovware <support@sovware.com>\n"
+"POT-Creation-Date: 2023-02-22 03:54+0000\n"
+"Project-Id-Version: undefined\n"
+"Report-Msgid-Bugs-To: support@sovware.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:10, inc/customizer.php:436
+msgid "Oops! That page can’t be found."
+msgstr ""
+
+#: 404.php:29, template-parts/content-none.php:49, template-parts/content-none.php:34
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: comments.php:18
+msgid " Comments"
+msgstr ""
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: directorist/archive/grid-view.php:53, directorist/archive/list-view.php:45
+msgid "No listings found."
+msgstr ""
+
+#: directorist/archive/header-bar.php:27
+msgid "All Items"
+msgstr ""
+
+#: directorist/author/listings.php:16
+msgid "Author Listings"
+msgstr ""
+
+#: directorist/author/listings.php:24
+msgid "Filter by category"
+msgstr ""
+
+#: directorist/custom/author-navigation.php:54
+msgid "Log Out"
+msgstr ""
+
+#: directorist/custom/directorist-header-options.php:16, directorist/custom/login-modal-fields.php:108, directorist/custom/login-register.php:14
+msgid "Sign In"
+msgstr ""
+
+#: directorist/custom/directorist-header-options.php:74
+msgid "or"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:98, inc/direo-helper.php:572
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:99, inc/direo-helper.php:672
+msgid "Wrong username or password."
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:104
+msgid "Username or Email Address"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:105, directorist/custom/login-register.php:69, template-parts/listings_with_map.php:72
+msgid "Password"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:107, template-parts/login-register.php:38
+msgid "Remember Me"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:110
+msgid "Forgot Password"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:111
+msgid "Lost your password? Please enter your email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:112, template-parts/login-register.php:52
+msgid "E-mail:"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:113
+msgid "eg. mail@example.com"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:114, template-parts/login-register.php:57
+msgid "Get New Password"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:115
+msgid "Don't have an account?"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:117, directorist/custom/login-register.php:85, template-parts/listings_with_map.php:88
+msgid "Sign Up"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:154
+msgid "<p>%s</p>"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:241
+msgid "Oops something went wrong updating your account."
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:210
+msgid "Password Reset Request"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:214, inc/direo-helper.php:610
+msgid "Someone has requested a password reset for the following account:"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:216, inc/direo-helper.php:612
+msgid "Site Name: %s"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:218, inc/direo-helper.php:614
+msgid "User: %s"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:219, inc/direo-helper.php:615
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:220, inc/direo-helper.php:616
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:237, inc/direo-helper.php:630
+msgid "Password updated! But something went wrong sending email."
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:235, inc/direo-helper.php:628
+msgid "A password reset email has been sent to the email address on file for your account, but may take several minutes to show up in your inbox."
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:202, inc/direo-helper.php:598
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:200
+msgid "Invalid e-mail address."
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:198
+msgid "Enter an e-mail address.."
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:246
+msgid "ERROR:"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:260, directorist/custom/login-modal-fields.php:262, directorist/custom/login-modal-fields.php:270, directorist/custom/registration-modal-fields.php:85, directorist/custom/registration-modal-fields.php:92
+msgid "%s"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:45
+msgid "Password not matched!"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:41
+msgid "Fields are required!"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:28
+msgid "Password changed successfully!"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:32
+msgid " Login"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:89
+msgid "Sorry! The link is invalid."
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:57
+msgid "Enter a new password below."
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:59
+msgid "New password"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:66
+msgid "Re-enter new password"
+msgstr ""
+
+#: directorist/custom/login-modal-fields.php:79, directorist/custom/login-modal-fields.php:81
+msgid "Save"
+msgstr ""
+
+#: directorist/custom/login-register.php:51, template-parts/listings_with_map.php:54
+msgid "Registration"
+msgstr ""
+
+#: directorist/custom/login-register.php:68, template-parts/listings_with_map.php:71
+msgid "Username"
+msgstr ""
+
+#: directorist/custom/login-register.php:72, template-parts/listings_with_map.php:75
+msgid "Email"
+msgstr ""
+
+#: directorist/custom/login-register.php:74, template-parts/listings_with_map.php:77
+msgid "Website"
+msgstr ""
+
+#: directorist/custom/login-register.php:77, template-parts/listings_with_map.php:80
+msgid "First Name"
+msgstr ""
+
+#: directorist/custom/login-register.php:80, template-parts/listings_with_map.php:83
+msgid "Last Name"
+msgstr ""
+
+#: directorist/custom/login-register.php:83, template-parts/listings_with_map.php:86
+msgid "About/bio"
+msgstr ""
+
+#: directorist/custom/login-register.php:87, template-parts/listings_with_map.php:90
+msgid "Already have an account? Please login"
+msgstr ""
+
+#: directorist/custom/login-register.php:89, directorist/custom/registration-modal-fields.php:39, directorist/custom/registration-modal-fields.php:25, template-parts/listings_with_map.php:92
+msgid "Here"
+msgstr ""
+
+#: directorist/custom/login-register.php:90, template-parts/listings_with_map.php:93
+msgid "I agree with all"
+msgstr ""
+
+#: directorist/custom/login-register.php:91, template-parts/listings_with_map.php:94
+msgid "terms & conditions"
+msgstr ""
+
+#: directorist/custom/login-register.php:94, template-parts/listings_with_map.php:97, template-parts/login-register.php:127
+msgid "I agree to the"
+msgstr ""
+
+#: directorist/custom/login-register.php:95, template-parts/listings_with_map.php:98
+msgid "Privacy & Policy"
+msgstr ""
+
+#: directorist/custom/registration-modal-fields.php:37
+msgid "Registration completed. Please check your email for confirmation."
+msgstr ""
+
+#: directorist/custom/registration-modal-fields.php:39
+msgid "Or click %s to login."
+msgstr ""
+
+#: directorist/custom/registration-modal-fields.php:23, inc/direo-helper.php:565
+msgid " Go to your inbox or spam/junk and get your password."
+msgstr ""
+
+#: directorist/custom/registration-modal-fields.php:25
+msgid " Click %s to login."
+msgstr ""
+
+#: directorist/custom/registration-modal-fields.php:53
+msgid "Registration failed. Please make sure you filed up all the necessary fields marked with <span style=\"color: red\">*</span>"
+msgstr ""
+
+#: directorist/custom/registration-modal-fields.php:56
+msgid "Sorry, that email already exists!"
+msgstr ""
+
+#: directorist/custom/registration-modal-fields.php:59
+msgid "Username too short. At least 4 characters is required"
+msgstr ""
+
+#: directorist/custom/registration-modal-fields.php:62
+msgid "Sorry, that username already exists!"
+msgstr ""
+
+#: directorist/custom/registration-modal-fields.php:65
+msgid "Password length must be greater than 5"
+msgstr ""
+
+#: directorist/custom/registration-modal-fields.php:68
+msgid "Email is not valid"
+msgstr ""
+
+#: directorist/custom/registration-modal-fields.php:71
+msgid "Space is not allowed in username"
+msgstr ""
+
+#: directorist/custom/registration-modal-fields.php:74
+msgid "Please make sure you filed up the user type"
+msgstr ""
+
+#: directorist/custom/registration-modal-fields.php:103, directorist/custom/registration-modal-fields.php:123, directorist/custom/registration-modal-fields.php:141, directorist/custom/registration-modal-fields.php:156, directorist/custom/registration-modal-fields.php:174, directorist/custom/registration-modal-fields.php:267
+msgid "%s "
+msgstr ""
+
+#: directorist/custom/registration-modal-fields.php:193
+msgid "I am an author"
+msgstr ""
+
+#: directorist/custom/registration-modal-fields.php:204
+msgid "I am a user"
+msgstr ""
+
+#: directorist/custom/registration-modal-fields.php:251
+msgid "Password will be e-mailed to you."
+msgstr ""
+
+#: directorist/search-form/custom-fields/checkbox.php:51
+msgid "Select Option"
+msgstr ""
+
+#: directorist/search-form/fields/pricing.php:13, directorist/search-form/fields/pricing.php:21, module/needs.php:58
+msgid "Price"
+msgstr ""
+
+#: directorist/search-form/fields/radius_search.php:18
+msgid "Radius Search"
+msgstr ""
+
+#: directorist/search-form/fields/tag.php:23
+msgid "Tags"
+msgstr ""
+
+#: directorist/search-form/fields/tag.php:46
+msgid "Show More"
+msgstr ""
+
+#: directorist/single/fields/report.php:16, directorist/single/fields/report.php:14
+msgid "Report"
+msgstr ""
+
+#: directorist/single/fields/report.php:33
+msgid "Report Abuse"
+msgstr ""
+
+#: directorist/single/fields/report.php:43
+msgid "Your Complain"
+msgstr ""
+
+#: directorist/single/fields/report.php:45
+msgid "Message..."
+msgstr ""
+
+#: directorist/single/fields/report.php:57
+msgid "Submit"
+msgstr ""
+
+#: directorist/single/fields/share.php:13, inc/direo-helper.php:243
+msgid "Share"
+msgstr ""
+
+#: functions.php:33
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:76
+msgid "Primary"
+msgstr ""
+
+#: functions.php:81
+msgid "Secondary"
+msgstr ""
+
+#: functions.php:86
+msgid "Heading"
+msgstr ""
+
+#: functions.php:91
+msgid "Text"
+msgstr ""
+
+#: functions.php:107
+msgid "All Listing "
+msgstr ""
+
+#: functions.php:109
+msgid "It will display on the left side of the All Listing element."
+msgstr ""
+
+#: functions.php:119
+msgid "Shop Page"
+msgstr ""
+
+#: functions.php:121
+msgid "Appears in the shop page sidebar."
+msgstr ""
+
+#: functions.php:131, inc/customizer.php:458, inc/customizer.php:466
+msgid "Blog"
+msgstr ""
+
+#: functions.php:133
+msgid "Appears in the blog page sidebar."
+msgstr ""
+
+#: functions.php:143, inc/customizer.php:679
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:145
+msgid "Appears in the page sidebar."
+msgstr ""
+
+#: functions.php:154
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:155
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:156
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:157
+msgid "Footer 4"
+msgstr ""
+
+#: inc/comment_form.php:31
+msgid "Edit"
+msgstr ""
+
+#: inc/comment_form.php:35
+msgid " Reply"
+msgstr ""
+
+#: inc/comment_form.php:47
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/comment_form.php:65
+msgctxt "placeholder"
+msgid "Name*"
+msgstr ""
+
+#: inc/comment_form.php:68
+msgctxt "placeholder"
+msgid "Email*"
+msgstr ""
+
+#: inc/comment_form.php:72, inc/comment_form.php:85
+msgctxt "placeholder"
+msgid "Your Text"
+msgstr ""
+
+#: inc/comment_form.php:89
+msgid "Post Comment"
+msgstr ""
+
+#: inc/comment_form.php:96
+msgid "Your email address will not be published."
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "Logo For Light Background"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Title Color"
+msgstr ""
+
+#: inc/customizer.php:69
+msgid "Tagline Color"
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Menu Area"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "Menu style of single listing and single post"
+msgstr ""
+
+#: inc/customizer.php:105, inc/customizer.php:479
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Light Background"
+msgstr ""
+
+#: inc/customizer.php:107
+msgid "Dark Background"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Banner Area Background Image"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "Image Opacity"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:144
+msgid "Remove \"Header Background Image\" for using this field."
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Add Listing Button Text"
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Add Listing Button Link"
+msgstr ""
+
+#: inc/customizer.php:167, inc/customizer.php:211, inc/customizer.php:247
+msgid "Leave it empty for default"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "Show Quick Login/Reg Button?"
+msgstr ""
+
+#: inc/customizer.php:180, inc/customizer.php:493, inc/customizer.php:590, inc/customizer.php:605, inc/customizer.php:620, inc/customizer.php:635, inc/customizer.php:650
+msgid "Show"
+msgstr ""
+
+#: inc/customizer.php:181, inc/customizer.php:494, inc/customizer.php:591, inc/customizer.php:606, inc/customizer.php:621, inc/customizer.php:636, inc/customizer.php:651
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer.php:192
+msgid "Login Button Text"
+msgstr ""
+
+#: inc/customizer.php:210
+msgid "Login Button Url"
+msgstr ""
+
+#: inc/customizer.php:228
+msgid "Register Button Text"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Register Button Url"
+msgstr ""
+
+#: inc/customizer.php:266
+msgid "Color Options"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Control your site color."
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer.php:287
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer.php:298
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer.php:309
+msgid "Primary Gradient Color"
+msgstr ""
+
+#: inc/customizer.php:323
+msgid "Secondary Gradient Color"
+msgstr ""
+
+#: inc/customizer.php:339
+msgid "Additional Color"
+msgstr ""
+
+#: inc/customizer.php:348
+msgid "Success Color"
+msgstr ""
+
+#: inc/customizer.php:359
+msgid "Info Color"
+msgstr ""
+
+#: inc/customizer.php:370
+msgid "Danger Color"
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "Warning Color"
+msgstr ""
+
+#: inc/customizer.php:394
+msgid "Copyright Area"
+msgstr ""
+
+#: inc/customizer.php:403
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:404
+msgid "Enter some description about copyright in your website"
+msgstr ""
+
+#: inc/customizer.php:406
+msgid "&copy; Copyright %s direo. All rights reserved."
+msgstr ""
+
+#: inc/customizer.php:425
+msgid "404 Page"
+msgstr ""
+
+#: inc/customizer.php:434
+msgid "404 title"
+msgstr ""
+
+#: inc/customizer.php:445
+msgid "404 Description"
+msgstr ""
+
+#: inc/customizer.php:476
+msgid "Blog Style"
+msgstr ""
+
+#: inc/customizer.php:480, module/listing.php:80, module/location.php:24, module/need-categories.php:24, module/need-locations.php:24, module/search-result.php:64, module/single-cat.php:80, module/single-location.php:80, module/single-tag.php:80
+msgid "Grid View"
+msgstr ""
+
+#: inc/customizer.php:491, inc/customizer.php:588
+msgid "Show Post Meta?"
+msgstr ""
+
+#: inc/customizer.php:506, inc/customizer.php:663
+msgid "Use Full Width Page?"
+msgstr ""
+
+#: inc/customizer.php:508, inc/customizer.php:665
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer.php:509, inc/customizer.php:666
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:521
+msgid "Blogs Page Title"
+msgstr ""
+
+#: inc/customizer.php:522
+msgid "Latest Blogs"
+msgstr ""
+
+#: inc/customizer.php:534, template-parts/about.php:3
+msgid "About Page"
+msgstr ""
+
+#: inc/customizer.php:544
+msgid "Header Title"
+msgstr ""
+
+#: inc/customizer.php:545, template-parts/about.php:12
+msgid "Place your Business or Explore Anything what you want"
+msgstr ""
+
+#: inc/customizer.php:555
+msgid "Popup Video Url"
+msgstr ""
+
+#: inc/customizer.php:556
+msgid "Insert youtube or vimeo video url for about page header."
+msgstr ""
+
+#: inc/customizer.php:566
+msgid "Video Button Text"
+msgstr ""
+
+#: inc/customizer.php:567, template-parts/about.php:14
+msgid "Play our video"
+msgstr ""
+
+#: inc/customizer.php:578
+msgid "Single Blog"
+msgstr ""
+
+#: inc/customizer.php:603
+msgid "Show Author Info Box?"
+msgstr ""
+
+#: inc/customizer.php:618
+msgid "Show Post Share?"
+msgstr ""
+
+#: inc/customizer.php:633
+msgid "Show Post Pagination"
+msgstr ""
+
+#: inc/customizer.php:648
+msgid "Show Related Posts?"
+msgstr ""
+
+#: inc/customizer.php:689
+msgid "Sidebar Alignment"
+msgstr ""
+
+#: inc/customizer.php:692
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:693
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/directorist_support.php:160
+msgid "My Listing"
+msgstr ""
+
+#: inc/directorist_support.php:167
+msgid "My Profile"
+msgstr ""
+
+#: inc/directorist_support.php:174
+msgid "Favorite Listings"
+msgstr ""
+
+#: inc/directorist_support.php:181
+msgid "Announcements"
+msgstr ""
+
+#: inc/direo-helper.php:154
+msgid "by"
+msgstr ""
+
+#: inc/direo-helper.php:163
+msgid "No comments yet"
+msgstr ""
+
+#: inc/direo-helper.php:163
+msgid "1 comment"
+msgstr ""
+
+#: inc/direo-helper.php:163
+msgid "% comments"
+msgstr ""
+
+#: inc/direo-helper.php:163
+msgid "Comments are off"
+msgstr ""
+
+#: inc/direo-helper.php:190
+msgid "No contact forms found"
+msgstr ""
+
+#: inc/direo-helper.php:185
+msgid "Select a Contact Form"
+msgstr ""
+
+#: inc/direo-helper.php:250
+msgid "Facebook"
+msgstr ""
+
+#: inc/direo-helper.php:256
+msgid "Twitter"
+msgstr ""
+
+#: inc/direo-helper.php:262
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/direo-helper.php:476
+msgid "No products in the cart."
+msgstr ""
+
+#: inc/direo-helper.php:449
+msgid "Remove this item"
+msgstr ""
+
+#: inc/direo-helper.php:465
+msgid "Subtotal: "
+msgstr ""
+
+#: inc/direo-helper.php:565
+msgid " Congratulations! Registration completed."
+msgstr ""
+
+#: inc/direo-helper.php:574
+msgid "Sorry! Login failed."
+msgstr ""
+
+#: inc/direo-helper.php:633
+msgid "Oops something went wrong updaing your account."
+msgstr ""
+
+#: inc/direo-helper.php:606
+msgid "	Password Reset Request"
+msgstr ""
+
+#: inc/direo-helper.php:596
+msgid "Invalid username or e-mail address."
+msgstr ""
+
+#: inc/direo-helper.php:594
+msgid "Enter a username or e-mail address.."
+msgstr ""
+
+#: inc/direo-helper.php:684
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: inc/direo-helper.php:882
+msgid "Link appears to be invalid."
+msgstr ""
+
+#: inc/direo-helper.php:890
+msgid "Renewed successfully."
+msgstr ""
+
+#: inc/direo-helper.php:947
+msgid "All Posts"
+msgstr ""
+
+#: inc/direo-helper.php:940
+msgid "Page not Found"
+msgstr ""
+
+#: inc/direo-helper.php:937
+msgid "Search Results for : "
+msgstr ""
+
+#: inc/direo-helper.php:993
+msgid "Search results <span>for</span> %s"
+msgstr ""
+
+#: inc/direo-helper.php:988
+msgid "%s <span>at</span> %s"
+msgstr ""
+
+#: inc/direo-helper.php:980
+msgid "%s <span>in</span> %s"
+msgstr ""
+
+#: kingcomposer/listing-carousel.php:220
+msgid "No listing found."
+msgstr ""
+
+#: kingcomposer/listing-carousel.php:194
+msgid "Posted %s ago"
+msgstr ""
+
+#: kingcomposer/subscribe.php:31
+msgctxt "placeholder"
+msgid "Enter your email"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:386, lib/tgm/class-tgm-plugin-activation.php:827, lib/tgm/class-tgm-plugin-activation.php:2533, lib/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:387, lib/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:388, lib/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: lib/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:937, lib/tgm/class-tgm-plugin-activation.php:934
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:1121, lib/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: lib/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: lib/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2549, module/feature_box.php:21
+msgid "Type"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:13
+msgid "Direo Core"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:21
+msgid "Directorist – Business Directory Plugin"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:26
+msgid "Kirki"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:31
+msgid "Elementor"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:36
+msgid "Contact form - 7"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:41
+msgid "WpWax Demo Importer"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:49
+msgid "Directorist Business Hours"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:56
+msgid "Directorist Listings with Map"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:63
+msgid "Directorist Social Login"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:70
+msgid "Directorist Pricing Plans"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:77
+msgid "Directorist PayPal Payment Gateway"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:84
+msgid "Directorist Stripe Payment Gateway"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:91
+msgid "Directorist Listing FAQs"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:98
+msgid "Directorist Claim Listing"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:105
+msgid "Directorist Google reCAPTCHA"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:112
+msgid "Directorist - Live Chat"
+msgstr ""
+
+#: lib/tgm/plugin_ac.php:119
+msgid "Directorist Booking"
+msgstr ""
+
+#: module/accordions.php:13
+msgid "Accordion"
+msgstr ""
+
+#: module/accordions.php:14
+msgid "Collapsible content panels"
+msgstr ""
+
+#: module/accordions.php:23
+msgid "Element Title"
+msgstr ""
+
+#: module/accordions.php:27
+msgid "Accordions"
+msgstr ""
+
+#: module/accordions.php:28
+msgid "Here you can add, remove, edit or reorder your accordions."
+msgstr ""
+
+#: module/accordions.php:30
+msgid "Add"
+msgstr ""
+
+#: module/accordions.php:34
+msgid "Tab Title"
+msgstr ""
+
+#: module/accordions.php:39
+msgid "Tab Description"
+msgstr ""
+
+#: module/add-listing.php:12
+msgid "Listing Form"
+msgstr ""
+
+#: module/author.php:12
+msgid "Author Profile"
+msgstr ""
+
+#: module/blog.php:11
+msgid "Blog Posts"
+msgstr ""
+
+#: module/blog.php:19
+msgid "Number of posts displayed"
+msgstr ""
+
+#: module/blog.php:20
+msgid "The number of posts you want to show."
+msgstr ""
+
+#: module/blog.php:31, module/categories.php:55, module/listing-map.php:107, module/listing.php:173, module/location.php:61, module/need-categories.php:68, module/need-locations.php:61, module/needs.php:52, module/search-result-map.php:101, module/search-result.php:117, module/single-cat-map.php:107, module/single-cat.php:172, module/single-location-map.php:107, module/single-location.php:172, module/single-tag-map.php:107, module/single-tag.php:172
+msgid "Order by"
+msgstr ""
+
+#: module/blog.php:34
+msgid " Post ID"
+msgstr ""
+
+#: module/blog.php:35
+msgid " Author"
+msgstr ""
+
+#: module/blog.php:36, module/listing-map.php:110, module/listing.php:176, module/search-result-map.php:104, module/search-result.php:120, module/single-cat-map.php:110, module/single-cat.php:175, module/single-location-map.php:110, module/single-location.php:175, module/single-tag-map.php:110, module/single-tag.php:175
+msgid " Title"
+msgstr ""
+
+#: module/blog.php:37
+msgid " Post name (post slug)"
+msgstr ""
+
+#: module/blog.php:38
+msgid " Post type (available since Version 4.0)"
+msgstr ""
+
+#: module/blog.php:39, module/listing-map.php:111, module/listing.php:177, module/search-result-map.php:105, module/search-result.php:121, module/single-cat-map.php:111, module/single-cat.php:176, module/single-location-map.php:111, module/single-location.php:176, module/single-tag-map.php:111, module/single-tag.php:176
+msgid " Date"
+msgstr ""
+
+#: module/blog.php:40
+msgid " Last modified date"
+msgstr ""
+
+#: module/blog.php:41
+msgid " Random order"
+msgstr ""
+
+#: module/blog.php:42
+msgid " Number of comments"
+msgstr ""
+
+#: module/blog.php:48
+msgid "Order post"
+msgstr ""
+
+#: module/blog.php:52, module/categories.php:81, module/listing-map.php:123, module/listing.php:193, module/location.php:77, module/need-categories.php:95, module/need-locations.php:77, module/search-result-map.php:117, module/search-result.php:137, module/single-cat-map.php:123, module/single-cat.php:192, module/single-location-map.php:123, module/single-location.php:192, module/single-tag-map.php:123, module/single-tag.php:192
+msgid " ASC"
+msgstr ""
+
+#: module/blog.php:53, module/categories.php:82, module/listing-map.php:124, module/listing.php:194, module/location.php:78, module/need-categories.php:96, module/need-locations.php:78, module/search-result-map.php:118, module/search-result.php:138, module/single-cat-map.php:124, module/single-cat.php:193, module/single-location-map.php:124, module/single-location.php:193, module/single-tag-map.php:124, module/single-tag.php:193
+msgid " DESC"
+msgstr ""
+
+#: module/blog.php:66
+msgid "Padding"
+msgstr ""
+
+#: module/blog.php:67
+msgid "Margin"
+msgstr ""
+
+#: module/categories.php:11
+msgid "Listing Categories"
+msgstr ""
+
+#: module/categories.php:12
+msgid "Display your all listing Categories."
+msgstr ""
+
+#: module/categories.php:21, module/need-categories.php:32
+msgid "Category Style"
+msgstr ""
+
+#: module/categories.php:23, module/feature_box.php:33, module/need-categories.php:34
+msgid "Style 1"
+msgstr ""
+
+#: module/categories.php:24, module/feature_box.php:34, module/need-categories.php:35
+msgid "Style 2"
+msgstr ""
+
+#: module/categories.php:30, module/need-categories.php:45
+msgid "Categories Per Row"
+msgstr ""
+
+#: module/categories.php:34
+msgid "6 Items / Row"
+msgstr ""
+
+#: module/categories.php:35, module/listing.php:92, module/location.php:35, module/need-categories.php:49, module/need-locations.php:35, module/need-single-cat.php:42, module/need-single-loc.php:42, module/needs.php:42, module/search-result.php:76, module/single-cat.php:92, module/single-location.php:92, module/single-tag.php:92
+msgid "5 Items / Row"
+msgstr ""
+
+#: module/categories.php:36, module/listing.php:93, module/location.php:36, module/need-categories.php:50, module/need-locations.php:36, module/need-single-cat.php:43, module/need-single-loc.php:43, module/needs.php:43, module/search-result.php:77, module/single-cat.php:93, module/single-location.php:93, module/single-tag.php:93
+msgid "4 Items / Row"
+msgstr ""
+
+#: module/categories.php:37, module/listing.php:94, module/location.php:37, module/need-categories.php:51, module/need-locations.php:37, module/need-single-cat.php:44, module/need-single-loc.php:44, module/needs.php:44, module/search-result.php:78, module/single-cat.php:94, module/single-location.php:94, module/single-tag.php:94
+msgid "3 Items / Row"
+msgstr ""
+
+#: module/categories.php:38, module/listing.php:95, module/location.php:38, module/need-categories.php:52, module/need-locations.php:38, module/need-single-cat.php:45, module/need-single-loc.php:45, module/needs.php:45, module/search-result.php:79, module/single-cat.php:95, module/single-location.php:95, module/single-tag.php:95
+msgid "2 Items / Row"
+msgstr ""
+
+#: module/categories.php:44, module/need-categories.php:58
+msgid "Categories Per Page"
+msgstr ""
+
+#: module/categories.php:58, module/need-categories.php:72
+msgid " Cat ID"
+msgstr ""
+
+#: module/categories.php:59, module/location.php:66
+msgid "Listing Count"
+msgstr ""
+
+#: module/categories.php:60, module/need-categories.php:74
+msgid " Category name (A-Z)"
+msgstr ""
+
+#: module/categories.php:61, module/need-categories.php:75
+msgid "Select Category"
+msgstr ""
+
+#: module/categories.php:67, module/listing-map.php:76, module/listing.php:142, module/need-categories.php:81, module/search-result-map.php:70, module/single-cat-map.php:76, module/single-cat.php:141, module/single-location-map.php:76, module/single-location.php:141, module/single-tag-map.php:76, module/single-tag.php:141
+msgid "Select Categories"
+msgstr ""
+
+#: module/categories.php:78, module/need-categories.php:91
+msgid "Categories Order"
+msgstr ""
+
+#: module/checkout.php:11
+msgid "Checkout"
+msgstr ""
+
+#: module/clients.php:12
+msgid "Logo Carousel"
+msgstr ""
+
+#: module/clients.php:13
+msgid " Display client logo in carousel"
+msgstr ""
+
+#: module/clients.php:21
+msgid "Upload Logos"
+msgstr ""
+
+#: module/contact_form.php:12
+msgid "Contact Form 7"
+msgstr ""
+
+#: module/contact_form.php:16
+msgid "Display contact form 7 form"
+msgstr ""
+
+#: module/contact_form.php:21, module/contact_info.php:35, module/dr_button.php:20, module/feature_box.php:56, module/needs.php:56, module/subscribe.php:22, module/title.php:20
+msgid "Title"
+msgstr ""
+
+#: module/contact_form.php:22
+msgid "Insert the module title."
+msgstr ""
+
+#: module/contact_form.php:24
+msgid "Free Consultation"
+msgstr ""
+
+#: module/contact_form.php:30
+msgid "Select Contact Form"
+msgstr ""
+
+#: module/contact_form.php:33
+msgid "Choose previously created contact form from the drop down list."
+msgstr ""
+
+#: module/contact_info.php:11
+msgid "Contact Information"
+msgstr ""
+
+#: module/contact_info.php:12
+msgid "Display Contact Information."
+msgstr ""
+
+#: module/contact_info.php:21
+msgid "Section Title"
+msgstr ""
+
+#: module/contact_info.php:26
+msgid "Add Contact Information"
+msgstr ""
+
+#: module/contact_info.php:28
+msgid "Add, remove, edit or reorder your address items."
+msgstr ""
+
+#: module/contact_info.php:29, module/contact_info.php:50, module/testimonial.php:23
+msgid "Add New"
+msgstr ""
+
+#: module/contact_info.php:40, module/contact_info.php:55, module/divider.php:35
+msgid "Icon"
+msgstr ""
+
+#: module/contact_info.php:47
+msgid "Add Social Icons"
+msgstr ""
+
+#: module/contact_info.php:49
+msgid "Add, remove, edit or reorder your socials items."
+msgstr ""
+
+#: module/contact_info.php:61
+msgid "Social Url"
+msgstr ""
+
+#: module/contact_info.php:70, module/feature_box.php:78, module/testimonial.php:52
+msgid "Custom class"
+msgstr ""
+
+#: module/contact_info.php:71, module/feature_box.php:79, module/testimonial.php:53
+msgid "Enter extra custom class"
+msgstr ""
+
+#: module/counter_box.php:12
+msgid "Counter Box"
+msgstr ""
+
+#: module/counter_box.php:13, module/dr_button.php:12
+msgid " "
+msgstr ""
+
+#: module/counter_box.php:21
+msgid "Targeted number"
+msgstr ""
+
+#: module/counter_box.php:23
+msgid "The targeted number to count up to (From zero). e.g: <b>23,k+</b> "
+msgstr ""
+
+#: module/counter_box.php:29
+msgid "Label"
+msgstr ""
+
+#: module/counter_box.php:36, module/dr_button.php:34
+msgid "Wrapper class name"
+msgstr ""
+
+#: module/counter_box.php:38, module/dr_button.php:36
+msgid "Custom class for wrapper of the shortcode widget."
+msgstr ""
+
+#: module/dashboard.php:11, template-parts/dashboard.php:3
+msgid "Dashboard"
+msgstr ""
+
+#: module/divider.php:12
+msgid "Divider"
+msgstr ""
+
+#: module/divider.php:13
+msgid "List of horizontal divider line"
+msgstr ""
+
+#: module/divider.php:23
+msgid "Select Style"
+msgstr ""
+
+#: module/divider.php:24
+msgid "Style of divider"
+msgstr ""
+
+#: module/divider.php:27
+msgid "Line Simple"
+msgstr ""
+
+#: module/divider.php:28
+msgid "Line With Icon"
+msgstr ""
+
+#: module/divider.php:29
+msgid "Line With Text"
+msgstr ""
+
+#: module/divider.php:36
+msgid "Select icon on divider"
+msgstr ""
+
+#: module/divider.php:46
+msgid "Text Line"
+msgstr ""
+
+#: module/divider.php:47
+msgid "Text display center line."
+msgstr ""
+
+#: module/divider.php:56
+msgid "Class"
+msgstr ""
+
+#: module/divider.php:57
+msgid "Extra CSS class"
+msgstr ""
+
+#: module/dr_button.php:11
+msgid "Button"
+msgstr ""
+
+#: module/dr_button.php:22
+msgid "Add the text that appears on the button."
+msgstr ""
+
+#: module/dr_button.php:28
+msgid "Link"
+msgstr ""
+
+#: module/dr_button.php:30, module/listing-map.php:50, module/listing.php:67, module/need-categories.php:116, module/need-locations.php:98, module/search-result-map.php:44, module/search-result.php:51, module/single-cat-map.php:50, module/single-cat.php:67, module/single-location-map.php:50, module/single-location.php:67, module/single-tag-map.php:50, module/single-tag.php:67
+msgid "Add your relative URL. Each URL contains link, anchor text and target attributes."
+msgstr ""
+
+#: module/dr_button.php:42
+msgid "css"
+msgstr ""
+
+#: module/feature_box.php:11
+msgid "Feature Box"
+msgstr ""
+
+#: module/feature_box.php:15
+msgid "Display feature boxes styles."
+msgstr ""
+
+#: module/feature_box.php:23
+msgid "Icon Type"
+msgstr ""
+
+#: module/feature_box.php:24
+msgid "Number Type"
+msgstr ""
+
+#: module/feature_box.php:31
+msgid "Chose Style"
+msgstr ""
+
+#: module/feature_box.php:44
+msgid "Select Icon"
+msgstr ""
+
+#: module/feature_box.php:46
+msgid "Select icon display in box"
+msgstr ""
+
+#: module/feature_box.php:62, module/testimonial.php:40
+msgid "Description"
+msgstr ""
+
+#: module/feature_box.php:66
+msgid "Number"
+msgstr ""
+
+#: module/feature_box.php:68
+msgid "Insert feature number."
+msgstr ""
+
+#: module/listing-carousel.php:10
+msgid "Listings Carousel"
+msgstr ""
+
+#: module/listing-carousel.php:18
+msgid "Show Featured Listing Only?"
+msgstr ""
+
+#: module/listing-carousel.php:25, module/listing-map.php:66, module/listing.php:131, module/search-result-map.php:60, module/search-result.php:105, module/single-cat-map.php:66, module/single-cat.php:131, module/single-location-map.php:66, module/single-location.php:131, module/single-tag-map.php:66, module/single-tag.php:131
+msgid "Listings Per Page"
+msgstr ""
+
+#: module/listing-carousel.php:26, module/listing.php:132
+msgid "The number of listings you want to show. Set -1 for all listings"
+msgstr ""
+
+#: module/listing-carousel.php:36
+msgid "Show Listing Address?"
+msgstr ""
+
+#: module/listing-carousel.php:42
+msgid "Show Listing Phone Number?"
+msgstr ""
+
+#: module/listing-carousel.php:48
+msgid "Show Listing Publish Date?"
+msgstr ""
+
+#: module/listing-map.php:11
+msgid "Listings With Map"
+msgstr ""
+
+#: module/listing-map.php:19, module/search-result-map.php:20, module/single-cat-map.php:19, module/single-location-map.php:19, module/single-tag-map.php:19
+msgid "Section Style"
+msgstr ""
+
+#: module/listing-map.php:23, module/search-result-map.php:24, module/single-cat-map.php:23, module/single-location-map.php:23, module/single-tag-map.php:23
+msgid "2 Column"
+msgstr ""
+
+#: module/listing-map.php:24, module/search-result-map.php:25, module/single-cat-map.php:24, module/single-location-map.php:24, module/single-tag-map.php:24
+msgid "3 Column"
+msgstr ""
+
+#: module/listing-map.php:30, module/listing.php:25, module/single-cat-map.php:30, module/single-cat.php:25, module/single-location-map.php:30, module/single-location.php:25, module/single-tag-map.php:30, module/single-tag.php:25
+msgid "Listings Found Title"
+msgstr ""
+
+#: module/listing-map.php:36, module/listing.php:53, module/need-categories.php:102, module/need-locations.php:84, module/search-result-map.php:30, module/search-result.php:37, module/single-cat-map.php:36, module/single-cat.php:53, module/single-location-map.php:36, module/single-location.php:53, module/single-tag-map.php:36, module/single-tag.php:53
+msgid "Show Only For Logged In User?"
+msgstr ""
+
+#: module/listing-map.php:42, module/listing.php:59, module/search-result-map.php:36, module/search-result.php:43, module/single-cat-map.php:42, module/single-cat.php:59, module/single-location-map.php:42, module/single-location.php:59, module/single-tag-map.php:42, module/single-tag.php:59
+msgid "Redirect Page?"
+msgstr ""
+
+#: module/listing-map.php:48, module/listing.php:65, module/need-categories.php:114, module/need-locations.php:96, module/search-result-map.php:42, module/search-result.php:49, module/single-cat-map.php:48, module/single-cat.php:65, module/single-location-map.php:48, module/single-location.php:65, module/single-tag-map.php:48, module/single-tag.php:65
+msgid "Redirect Link"
+msgstr ""
+
+#: module/listing-map.php:59, module/listing.php:105, module/search-result-map.php:53, module/single-cat-map.php:59, module/single-cat.php:105, module/single-location-map.php:59, module/single-location.php:105, module/single-tag-map.php:59, module/single-tag.php:105
+msgid "Show Preview Image?"
+msgstr ""
+
+#: module/listing-map.php:82, module/listing.php:148, module/search-result-map.php:76, module/single-cat-map.php:82, module/single-cat.php:147, module/single-location-map.php:82, module/single-location.php:147, module/single-tag-map.php:82, module/single-tag.php:147
+msgid "Select Tags"
+msgstr ""
+
+#: module/listing-map.php:88, module/listing.php:154, module/location.php:55, module/need-locations.php:55, module/search-result-map.php:82, module/single-cat-map.php:88, module/single-cat.php:153, module/single-location-map.php:88, module/single-location.php:153, module/single-tag-map.php:88, module/single-tag.php:153
+msgid "Select Locations"
+msgstr ""
+
+#: module/listing-map.php:89, module/listing.php:155, module/search-result-map.php:83, module/single-cat-map.php:89, module/single-cat.php:154, module/single-location-map.php:89, module/single-location.php:154, module/single-tag-map.php:89, module/single-tag.php:154
+msgid "The locations of listing posts you want to show."
+msgstr ""
+
+#: module/listing-map.php:95, module/listing.php:161, module/search-result-map.php:89, module/single-cat-map.php:95, module/single-cat.php:160, module/single-location-map.php:95, module/single-location.php:160, module/single-tag-map.php:95, module/single-tag.php:160
+msgid "Show Featured Only?"
+msgstr ""
+
+#: module/listing-map.php:100, module/listing.php:166, module/search-result-map.php:94, module/single-cat-map.php:100, module/single-cat.php:165, module/single-location-map.php:100, module/single-location.php:165, module/single-tag-map.php:100, module/single-tag.php:165
+msgid "Show Popular Only?"
+msgstr ""
+
+#: module/listing-map.php:112, module/listing.php:178, module/search-result-map.php:106, module/search-result.php:122, module/single-cat-map.php:112, module/single-cat.php:177, module/single-location-map.php:112, module/single-location.php:177, module/single-tag-map.php:112, module/single-tag.php:177
+msgid " Price"
+msgstr ""
+
+#: module/listing-map.php:120, module/listing.php:190, module/search-result-map.php:114, module/search-result.php:134, module/single-cat-map.php:120, module/single-cat.php:189, module/single-location-map.php:120, module/single-location.php:189, module/single-tag-map.php:120, module/single-tag.php:189
+msgid "Listings Order"
+msgstr ""
+
+#: module/listing-map.php:130, module/listing.php:204, module/need-single-cat.php:63, module/need-single-loc.php:63, module/needs.php:86, module/search-result-map.php:124, module/search-result.php:148, module/single-cat-map.php:130, module/single-cat.php:203, module/single-location-map.php:130, module/single-location.php:203, module/single-tag-map.php:130, module/single-tag.php:203
+msgid "Show Pagination"
+msgstr ""
+
+#: module/listing.php:11
+msgid "Listings"
+msgstr ""
+
+#: module/listing.php:19, module/search-result.php:19, module/single-cat.php:19, module/single-location.php:19, module/single-tag.php:19
+msgid "Show Header?"
+msgstr ""
+
+#: module/listing.php:20, module/search-result.php:20, module/single-cat.php:20, module/single-location.php:20, module/single-tag.php:20
+msgid "Display header on section topper."
+msgstr ""
+
+#: module/listing.php:35, module/search-result.php:26, module/single-cat.php:35, module/single-location.php:35, module/single-tag.php:35
+msgid "Show Filter Button?"
+msgstr ""
+
+#: module/listing.php:36, module/search-result.php:27, module/single-cat.php:36, module/single-location.php:36, module/single-tag.php:36
+msgid "Display \"Advance Search Filter Button\" on section header."
+msgstr ""
+
+#: module/listing.php:46, module/single-cat.php:46, module/single-location.php:46, module/single-tag.php:46
+msgid "Show Sidebar?"
+msgstr ""
+
+#: module/listing.php:47, module/single-cat.php:47, module/single-location.php:47, module/single-tag.php:47
+msgid "Display \"All Listing Sidebar\" on the left column."
+msgstr ""
+
+#: module/listing.php:77, module/search-result.php:61, module/single-cat.php:77, module/single-location.php:77, module/single-tag.php:77
+msgid "View As"
+msgstr ""
+
+#: module/listing.php:81, module/location.php:25, module/need-categories.php:25, module/need-locations.php:25, module/search-result.php:65, module/single-cat.php:81, module/single-location.php:81, module/single-tag.php:81
+msgid "List View"
+msgstr ""
+
+#: module/listing.php:82, module/search-result.php:66, module/single-cat.php:82, module/single-location.php:82, module/single-tag.php:82
+msgid "Map View"
+msgstr ""
+
+#: module/listing.php:88, module/search-result.php:72, module/single-cat.php:88, module/single-location.php:88, module/single-tag.php:88
+msgid "Listings Per Row"
+msgstr ""
+
+#: module/listing.php:96, module/location.php:39, module/search-result.php:80, module/single-cat.php:96, module/single-location.php:96, module/single-tag.php:96
+msgid "1 Items / Row"
+msgstr ""
+
+#: module/listing.php:116, module/search-result.php:90, module/single-cat.php:116, module/single-location.php:116, module/single-tag.php:116
+msgid "Map Height"
+msgstr ""
+
+#: module/location.php:11
+msgid " Listing Locations"
+msgstr ""
+
+#: module/location.php:12
+msgid " Display your all listing Locations."
+msgstr ""
+
+#: module/location.php:21, module/need-categories.php:21, module/need-locations.php:21
+msgid "Locations Layout"
+msgstr ""
+
+#: module/location.php:31, module/need-locations.php:31
+msgid "Locations Per Row"
+msgstr ""
+
+#: module/location.php:45, module/need-locations.php:44
+msgid "Locations Per Page"
+msgstr ""
+
+#: module/location.php:65, module/need-locations.php:65
+msgid "Location ID"
+msgstr ""
+
+#: module/location.php:67, module/need-locations.php:67
+msgid " Location name (A-Z)"
+msgstr ""
+
+#: module/location.php:73, module/need-locations.php:73
+msgid "Locations Order"
+msgstr ""
+
+#: module/login.php:11
+msgid "Login Form"
+msgstr ""
+
+#: module/need-categories.php:11
+msgid "Need Categories"
+msgstr ""
+
+#: module/need-categories.php:12
+msgid "Display your all need Categories."
+msgstr ""
+
+#: module/need-categories.php:73
+msgid "Needs Count"
+msgstr ""
+
+#: module/need-categories.php:108, module/need-locations.php:90
+msgid "Add Redirect User?"
+msgstr ""
+
+#: module/need-locations.php:11
+msgid "Need Locations"
+msgstr ""
+
+#: module/need-locations.php:12
+msgid " Display your all need Locations."
+msgstr ""
+
+#: module/need-locations.php:45
+msgid "The number of locations you want to show."
+msgstr ""
+
+#: module/need-locations.php:66
+msgid "need Count"
+msgstr ""
+
+#: module/need-single-cat.php:11
+msgid "Needs Single Category"
+msgstr ""
+
+#: module/need-single-cat.php:12
+msgid "Display your needs by category."
+msgstr ""
+
+#: module/need-single-cat.php:20, module/need-single-loc.php:20, module/needs.php:20
+msgid "Show Author Avatar?"
+msgstr ""
+
+#: module/need-single-cat.php:26, module/need-single-loc.php:26, module/needs.php:26
+msgid "Show Category?"
+msgstr ""
+
+#: module/need-single-cat.php:32, module/need-single-loc.php:32, module/needs.php:32
+msgid "Show Budget Amount?"
+msgstr ""
+
+#: module/need-single-cat.php:38, module/need-single-loc.php:38, module/needs.php:38
+msgid "Needs Per Row"
+msgstr ""
+
+#: module/need-single-cat.php:52, module/need-single-loc.php:52, module/needs.php:75
+msgid "Needs Per Page"
+msgstr ""
+
+#: module/need-single-cat.php:53, module/need-single-loc.php:53, module/needs.php:76
+msgid "The number of needs you want to show. Set -1 for all needs"
+msgstr ""
+
+#: module/need-single-loc.php:11
+msgid "Needs Single Location"
+msgstr ""
+
+#: module/need-single-loc.php:12
+msgid "Display your needs by location."
+msgstr ""
+
+#: module/needs.php:11
+msgid "Needs"
+msgstr ""
+
+#: module/needs.php:12
+msgid "Display your all needs."
+msgstr ""
+
+#: module/needs.php:57
+msgid "Date"
+msgstr ""
+
+#: module/needs.php:64
+msgid "Needs Order"
+msgstr ""
+
+#: module/needs.php:67
+msgid "ASC"
+msgstr ""
+
+#: module/needs.php:68
+msgid "DESC"
+msgstr ""
+
+#: module/payment.php:11
+msgid "Payment Receipt"
+msgstr ""
+
+#: module/plan.php:11
+msgid "Pricing Plan"
+msgstr ""
+
+#: module/registration.php:11
+msgid "Registration Form"
+msgstr ""
+
+#: module/search-result-map.php:11
+msgid "Search Result Map View"
+msgstr ""
+
+#: module/search-result-map.php:12
+msgid "Display your search result listing with map view."
+msgstr ""
+
+#: module/search-result.php:11
+msgid "Search Result"
+msgstr ""
+
+#: module/search.php:11
+msgid "Search Form"
+msgstr ""
+
+#: module/search.php:19
+msgid "Show Element Border?"
+msgstr ""
+
+#: module/search.php:25
+msgid "Show Text Field?"
+msgstr ""
+
+#: module/search.php:32
+msgid "Show Category Field?"
+msgstr ""
+
+#: module/search.php:40
+msgid "Show Location Field?"
+msgstr ""
+
+#: module/search.php:48
+msgid "Advance Search Field?"
+msgstr ""
+
+#: module/search.php:54
+msgid "Show Popular Category?"
+msgstr ""
+
+#: module/search.php:61
+msgid "Number of Popular Categories"
+msgstr ""
+
+#: module/single-cat-map.php:11
+msgid "Single Category Map View"
+msgstr ""
+
+#: module/single-cat.php:11
+msgid "Single Category"
+msgstr ""
+
+#: module/single-location-map.php:11
+msgid "Single Location Map View"
+msgstr ""
+
+#: module/single-location.php:11
+msgid "Single Location"
+msgstr ""
+
+#: module/single-tag-map.php:11
+msgid "Single Tag Map View"
+msgstr ""
+
+#: module/single-tag.php:11
+msgid "Single Tag"
+msgstr ""
+
+#: module/subscribe.php:12
+msgid "Mailchimp Newsletter"
+msgstr ""
+
+#: module/subscribe.php:13
+msgid "Display mailchimp subscribe form."
+msgstr ""
+
+#: module/subscribe.php:28
+msgid "Subtitle"
+msgstr ""
+
+#: module/subscribe.php:37
+msgid "Subscribe Button Text"
+msgstr ""
+
+#: module/subscribe.php:42
+msgid "Mailchimp Form Action Url"
+msgstr ""
+
+#: module/testimonial.php:11
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: module/testimonial.php:12
+msgid "Display clients testimonial in carousel."
+msgstr ""
+
+#: module/testimonial.php:20
+msgid "Add Clients Testimonial"
+msgstr ""
+
+#: module/testimonial.php:22
+msgid "Add, remove, edit or reorder your testimonial items."
+msgstr ""
+
+#: module/testimonial.php:28
+msgid "Client Name"
+msgstr ""
+
+#: module/testimonial.php:34
+msgid "Position"
+msgstr ""
+
+#: module/testimonial.php:44
+msgid "Upload Image"
+msgstr ""
+
+#: module/text.php:11
+msgid " Text Block"
+msgstr ""
+
+#: module/text.php:12
+msgid " A block of text with TINYMCE editor"
+msgstr ""
+
+#: module/text.php:24
+msgid "Content"
+msgstr ""
+
+#: module/text.php:26
+msgid "Sample Text"
+msgstr ""
+
+#: module/text.php:30
+msgid "Extra Class"
+msgstr ""
+
+#: module/title.php:11
+msgid "Title Pro"
+msgstr ""
+
+#: module/title.php:12
+msgid "Display a title with subtitle"
+msgstr ""
+
+#: module/title.php:22
+msgid "Insert tag <b>&lt;span&gt;</b> when you want to highlight text.<br> Example: Why <b> &lt;span&gt;<span> Direo </span>&lt;/span&gt; </b>for your Business?"
+msgstr ""
+
+#: module/title.php:27
+msgid " Type"
+msgstr ""
+
+#: module/title.php:41
+msgid "Add inline link?"
+msgstr ""
+
+#: module/title.php:43
+msgid "Additional text with link on one line with title text."
+msgstr ""
+
+#: module/title.php:47
+msgid " Link title"
+msgstr ""
+
+#: module/title.php:49
+msgid " Insert link for title"
+msgstr ""
+
+#: module/title.php:56
+msgid "Sub Title"
+msgstr ""
+
+#: module/title.php:63
+msgid " Extra Class"
+msgstr ""
+
+#: module/transaction.php:11
+msgid "Transaction Failure"
+msgstr ""
+
+#: template-parts/common/breadcrumb.php:50
+msgid "Home"
+msgstr ""
+
+#: template-parts/content-none.php:43, template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid "Nothing exists here"
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid "We couldn't find any results for your search. Try clearing some filters and try again."
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid "Get started here"
+msgstr ""
+
+#: template-parts/login-register.php:29
+msgctxt "placeholder"
+msgid "Username or Email"
+msgstr ""
+
+#: template-parts/login-register.php:30, template-parts/login-register.php:111
+msgctxt "placeholder"
+msgid "Password"
+msgstr ""
+
+#: template-parts/login-register.php:42
+msgid "Forgot your password?"
+msgstr ""
+
+#: template-parts/login-register.php:51
+msgid "Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: template-parts/login-register.php:63, template-parts/login-register.php:154
+msgid "Or connect with"
+msgstr ""
+
+#: template-parts/login-register.php:75
+msgid "Not a member? "
+msgstr ""
+
+#: template-parts/login-register.php:104
+msgctxt "placeholder"
+msgid "Your Email"
+msgstr ""
+
+#: template-parts/login-register.php:107
+msgctxt "placeholder"
+msgid "Choose Username"
+msgstr ""
+
+#: template-parts/login-register.php:129
+msgid "Privacy"
+msgstr ""
+
+#: template-parts/login-register.php:137
+msgid "Terms"
+msgstr ""
+
+#: template-parts/login-register.php:150
+msgid "Please wait..."
+msgstr ""
+
+#: template-parts/login-register.php:161
+msgid "Already a member? "
+msgstr ""
+
+#: template-parts/page_sidebar.php:3
+msgid "Page With Sidebar"
+msgstr ""
+
+#: template-parts/post-feature/author-bio.php:16
+msgid "About"
+msgstr ""
+
+#: template-parts/search-home.php:3
+msgid "Search Home"
+msgstr ""

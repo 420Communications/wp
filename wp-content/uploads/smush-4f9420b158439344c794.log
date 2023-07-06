@@ -1,0 +1,1090 @@
+[2022-12-22 10:26:38 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-12-22 10:26:39 : INFO] - 
+ 
+[2022-12-22 10:26:39 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:26:39 +0000 on https://find420.com 
+[2022-12-22 10:26:39 : INFO] - WP: 6.1.1 
+[2022-12-22 10:26:39 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:26:39 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:26:39 : INFO] - WPLANG: en_US 
+[2022-12-22 10:26:39 : INFO] - Server: Apache 
+[2022-12-22 10:26:39 : INFO] - Outbound connections: N 
+[2022-12-22 10:26:39 : INFO] - safe_mode: 0 
+[2022-12-22 10:26:39 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:26:39 : INFO] - memory_limit: 512M (used: 23.1M | 24M) 
+[2022-12-22 10:26:39 : INFO] - multisite: N 
+[2022-12-22 10:26:39 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:26:39 : INFO] - A total of 31 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:26:39 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) was created in the database 
+[2022-12-22 10:26:39 : INFO] - Lock (updraft_lock_smush, wpf_options) acquired after initialising the database 
+[2022-12-22 10:26:39 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2022-12-22 10:26:39 : INFO] - Task with ID 1 and type (smush) failed with error code invalid_file_type - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/09/logo.webp - cannot be optimized, it has an invalid file type 
+[2022-12-22 10:26:39 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2022-12-22 10:26:39 : INFO] - Task with ID 2 and type (smush) failed with error code invalid_file_type - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/09/richard-t-yovhXPl8V1M-unsplash.webp - cannot be optimized, it has an invalid file type 
+[2022-12-22 10:26:39 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2022-12-22 10:26:39 : INFO] - Re_Smush_It_Task - Attachment ID : 3497, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:26:44 : INFO] - 75 
+[2022-12-22 10:26:52 : INFO] - Backing up the original image - 2022/09/roberto-valdivia-HrRm_V-V0sM-unsplash-updraft-pre-smush-original.jpg 
+[2022-12-22 10:26:52 : INFO] - Re_Smush_It_Task - Attachment ID : 3497, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:26:52 : INFO] - 75 
+[2022-12-22 10:26:55 : INFO] - Re_Smush_It_Task - Attachment ID : 3497, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:26:56 : INFO] - 75 
+[2022-12-22 10:27:00 : INFO] - Re_Smush_It_Task - Attachment ID : 3497, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:00 : INFO] - 75 
+[2022-12-22 10:27:02 : INFO] - Re_Smush_It_Task - Attachment ID : 3497, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:03 : INFO] - 75 
+[2022-12-22 10:27:05 : INFO] - Re_Smush_It_Task - Attachment ID : 3497, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:08 : INFO] - 75 
+[2022-12-22 10:27:11 : INFO] - Re_Smush_It_Task - Attachment ID : 3497, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:12 : INFO] - 75 
+[2022-12-22 10:27:14 : INFO] - Re_Smush_It_Task - Attachment ID : 3497, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:14 : INFO] - 75 
+[2022-12-22 10:27:15 : INFO] - Re_Smush_It_Task - Attachment ID : 3497, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:16 : INFO] - 75 
+[2022-12-22 10:27:17 : INFO] - Re_Smush_It_Task - Attachment ID : 3497, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:17 : INFO] - 75 
+[2022-12-22 10:27:19 : INFO] - Re_Smush_It_Task - Attachment ID : 3497, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:19 : INFO] - 75 
+[2022-12-22 10:27:20 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/09/roberto-valdivia-HrRm_V-V0sM-unsplash.jpg.The file was compressed from 244.04 KB to 169.57 KB saving 30.52 percent using WP-Optimize 
+[2022-12-22 10:27:20 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2022-12-22 10:27:20 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2022-12-22 10:27:20 : INFO] - Task with ID 4 and type (smush) failed with error code invalid_file_type - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/09/logo-1.webp - cannot be optimized, it has an invalid file type 
+[2022-12-22 10:27:20 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2022-12-22 10:27:20 : INFO] - Re_Smush_It_Task - Attachment ID : 3719, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:21 : INFO] - 75 
+[2022-12-22 10:27:25 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2022-12-22 10:27:25 : INFO] - Re_Smush_It_Task - Attachment ID : 3719, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:25 : INFO] - 75 
+[2022-12-22 10:27:30 : INFO] - Re_Smush_It_Task - Attachment ID : 3719, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:31 : INFO] - 75 
+[2022-12-22 10:27:35 : INFO] - Re_Smush_It_Task - Attachment ID : 3719, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:35 : INFO] - 75 
+[2022-12-22 10:27:35 : INFO] - Task with ID 5 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2022-12-22 10:27:35 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-12-22 10:27:35 : INFO] - Re_Smush_It_Task - Attachment ID : 3719, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:36 : INFO] - 75 
+[2022-12-22 10:27:39 : INFO] - 
+ 
+[2022-12-22 10:27:39 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:27:39 +0000 on https://find420.com 
+[2022-12-22 10:27:39 : INFO] - WP: 6.1.1 
+[2022-12-22 10:27:39 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:27:39 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:27:39 : INFO] - WPLANG: en_US 
+[2022-12-22 10:27:39 : INFO] - Server: Apache 
+[2022-12-22 10:27:39 : INFO] - Outbound connections: N 
+[2022-12-22 10:27:39 : INFO] - safe_mode: 0 
+[2022-12-22 10:27:39 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:27:39 : INFO] - memory_limit: 512M (used: 23.1M | 24M) 
+[2022-12-22 10:27:39 : INFO] - multisite: N 
+[2022-12-22 10:27:39 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:27:39 : INFO] - A total of 26 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:27:39 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) already existed in the database 
+[2022-12-22 10:27:39 : INFO] - Lock (updraft_lock_smush, wpf_options) could not be acquired (it is locked) 
+[2022-12-22 10:27:39 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-12-22 10:27:39 : INFO] - Re_Smush_It_Task - Attachment ID : 3719, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:40 : INFO] - 75 
+[2022-12-22 10:27:45 : INFO] - Re_Smush_It_Task - Attachment ID : 3719, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:45 : INFO] - 75 
+[2022-12-22 10:27:48 : INFO] - Re_Smush_It_Task - Attachment ID : 3719, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:49 : INFO] - 75 
+[2022-12-22 10:27:52 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 100.24 KB to 73.05 KB saving 27.12 percent using WP-Optimize 
+[2022-12-22 10:27:52 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2022-12-22 10:27:52 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2022-12-22 10:27:52 : INFO] - Re_Smush_It_Task - Attachment ID : 3997, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:52 : INFO] - 75 
+[2022-12-22 10:27:54 : INFO] - Backing up the original image - 2022/09/sb-shape-updraft-pre-smush-original.jpg 
+[2022-12-22 10:27:54 : INFO] - Re_Smush_It_Task - Attachment ID : 3997, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:27:54 : INFO] - 75 
+[2022-12-22 10:28:00 : INFO] - Re_Smush_It_Task - Attachment ID : 3997, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:00 : INFO] - 75 
+[2022-12-22 10:28:01 : INFO] - Re_Smush_It_Task - Attachment ID : 3997, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:01 : INFO] - 75 
+[2022-12-22 10:28:02 : INFO] - Re_Smush_It_Task - Attachment ID : 3997, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:02 : INFO] - 75 
+[2022-12-22 10:28:03 : INFO] - Re_Smush_It_Task - Attachment ID : 3997, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:03 : INFO] - 75 
+[2022-12-22 10:28:04 : INFO] - Re_Smush_It_Task - Attachment ID : 3997, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:04 : INFO] - 75 
+[2022-12-22 10:28:05 : INFO] - Task with ID 6 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-12-22 10:28:05 : INFO] - data: {"src":"http:\/\/par5.static.resmush.it\/e58f905c1e083a8f18944e51bac2b13a\/_src_sb-shape-350x224.jpg","dest":"http:\/\/par5.static.resmush.it\/e58f905c1e083a8f18944e51bac2b13a\/sb-shape-350x224.jpg","src_size":1212,"dest_size":1159,"percent":4,"output":"json","expires":"Thu, 22 Dec 2022 11:33:05 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-12-22 10:28:05 : INFO] - Re_Smush_It_Task - Attachment ID : 3997, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:05 : INFO] - 75 
+[2022-12-22 10:28:05 : INFO] - Task with ID 6 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2022-12-22 10:28:05 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-12-22 10:28:05 : INFO] - Re_Smush_It_Task - Attachment ID : 3997, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:05 : INFO] - 75 
+[2022-12-22 10:28:06 : INFO] - Re_Smush_It_Task - Attachment ID : 3997, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:06 : INFO] - 75 
+[2022-12-22 10:28:07 : INFO] - Re_Smush_It_Task - Attachment ID : 3997, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:07 : INFO] - 75 
+[2022-12-22 10:28:08 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/09/sb-shape.jpg.The file was compressed from 3.52 KB to 3.14 KB saving 10.69 percent using WP-Optimize 
+[2022-12-22 10:28:08 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2022-12-22 10:28:08 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2022-12-22 10:28:08 : INFO] - Task with ID 7 and type (smush) failed with error code invalid_file_type - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/09/cropped-logo.webp - cannot be optimized, it has an invalid file type 
+[2022-12-22 10:28:08 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2022-12-22 10:28:08 : INFO] - Re_Smush_It_Task - Attachment ID : 4122, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:11 : INFO] - 75 
+[2022-12-22 10:28:15 : INFO] - Backing up the original image - 2022/10/Layer-1-updraft-pre-smush-original.png 
+[2022-12-22 10:28:15 : INFO] - Re_Smush_It_Task - Attachment ID : 4122, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:16 : INFO] - 75 
+[2022-12-22 10:28:17 : INFO] - Re_Smush_It_Task - Attachment ID : 4122, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:17 : INFO] - 75 
+[2022-12-22 10:28:21 : INFO] - Re_Smush_It_Task - Attachment ID : 4122, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:21 : INFO] - 75 
+[2022-12-22 10:28:22 : INFO] - Re_Smush_It_Task - Attachment ID : 4122, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:22 : INFO] - 75 
+[2022-12-22 10:28:24 : INFO] - Re_Smush_It_Task - Attachment ID : 4122, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:26 : INFO] - 75 
+[2022-12-22 10:28:29 : INFO] - Re_Smush_It_Task - Attachment ID : 4122, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:30 : INFO] - 75 
+[2022-12-22 10:28:35 : INFO] - Re_Smush_It_Task - Attachment ID : 4122, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:35 : INFO] - 75 
+[2022-12-22 10:28:37 : INFO] - Re_Smush_It_Task - Attachment ID : 4122, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:37 : INFO] - 75 
+[2022-12-22 10:28:39 : INFO] - 
+ 
+[2022-12-22 10:28:39 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:28:39 +0000 on https://find420.com 
+[2022-12-22 10:28:39 : INFO] - WP: 6.1.1 
+[2022-12-22 10:28:39 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:28:39 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:28:39 : INFO] - WPLANG: en_US 
+[2022-12-22 10:28:39 : INFO] - Server: Apache 
+[2022-12-22 10:28:39 : INFO] - Outbound connections: N 
+[2022-12-22 10:28:39 : INFO] - safe_mode: 0 
+[2022-12-22 10:28:39 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:28:39 : INFO] - memory_limit: 512M (used: 23.1M | 24M) 
+[2022-12-22 10:28:39 : INFO] - multisite: N 
+[2022-12-22 10:28:39 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:28:39 : INFO] - A total of 24 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:28:39 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) already existed in the database 
+[2022-12-22 10:28:39 : INFO] - Lock (updraft_lock_smush, wpf_options) could not be acquired (it is locked) 
+[2022-12-22 10:28:39 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-12-22 10:28:39 : INFO] - Re_Smush_It_Task - Attachment ID : 4122, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:39 : INFO] - 75 
+[2022-12-22 10:28:40 : INFO] - Re_Smush_It_Task - Attachment ID : 4122, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:40 : INFO] - 75 
+[2022-12-22 10:28:42 : INFO] - Re_Smush_It_Task - Attachment ID : 4122, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:42 : INFO] - 75 
+[2022-12-22 10:28:43 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/10/Layer-1.png.The file was compressed from 218.64 KB to 92.50 KB saving 57.69 percent using WP-Optimize 
+[2022-12-22 10:28:43 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2022-12-22 10:28:43 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2022-12-22 10:28:43 : INFO] - Re_Smush_It_Task - Attachment ID : 4123, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:43 : INFO] - 75 
+[2022-12-22 10:28:46 : INFO] - Backing up the original image - 2022/10/cropped-Layer-1-updraft-pre-smush-original.png 
+[2022-12-22 10:28:46 : INFO] - Re_Smush_It_Task - Attachment ID : 4123, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:46 : INFO] - 75 
+[2022-12-22 10:28:48 : INFO] - Re_Smush_It_Task - Attachment ID : 4123, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:48 : INFO] - 75 
+[2022-12-22 10:28:49 : INFO] - Re_Smush_It_Task - Attachment ID : 4123, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:49 : INFO] - 75 
+[2022-12-22 10:28:52 : INFO] - Re_Smush_It_Task - Attachment ID : 4123, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:52 : INFO] - 75 
+[2022-12-22 10:28:54 : INFO] - Re_Smush_It_Task - Attachment ID : 4123, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:54 : INFO] - 75 
+[2022-12-22 10:28:56 : INFO] - Re_Smush_It_Task - Attachment ID : 4123, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:56 : INFO] - 75 
+[2022-12-22 10:28:57 : INFO] - Re_Smush_It_Task - Attachment ID : 4123, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:57 : INFO] - 75 
+[2022-12-22 10:28:58 : INFO] - Re_Smush_It_Task - Attachment ID : 4123, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:28:59 : INFO] - 75 
+[2022-12-22 10:29:00 : INFO] - Re_Smush_It_Task - Attachment ID : 4123, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:29:00 : INFO] - 75 
+[2022-12-22 10:29:01 : INFO] - Re_Smush_It_Task - Attachment ID : 4123, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:29:01 : INFO] - 75 
+[2022-12-22 10:29:02 : INFO] - Task with ID 9 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-12-22 10:29:02 : INFO] - data: {"src":"http:\/\/par5.static.resmush.it\/ca861b6119bfa3f3cfcd26bc0379c2f2\/_src_cropped-Layer-1-32x32.png","dest":"http:\/\/par5.static.resmush.it\/ca861b6119bfa3f3cfcd26bc0379c2f2\/cropped-Layer-1-32x32.png","src_size":1214,"dest_size":1214,"percent":0,"output":"json","expires":"Thu, 22 Dec 2022 11:34:02 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-12-22 10:29:02 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/10/cropped-Layer-1.png.The file was compressed from 74.97 KB to 42.08 KB saving 43.87 percent using WP-Optimize 
+[2022-12-22 10:29:02 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2022-12-22 10:29:02 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2022-12-22 10:29:02 : INFO] - Re_Smush_It_Task - Attachment ID : 4124, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:29:10 : INFO] - 75 
+[2022-12-22 10:29:35 : INFO] - Backing up the original image - 2022/10/Untitled-1-updraft-pre-smush-original.png 
+[2022-12-22 10:29:35 : INFO] - Re_Smush_It_Task - Attachment ID : 4124, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:29:36 : INFO] - 75 
+[2022-12-22 10:29:38 : INFO] - Re_Smush_It_Task - Attachment ID : 4124, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:29:39 : INFO] - 
+ 
+[2022-12-22 10:29:39 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:29:39 +0000 on https://find420.com 
+[2022-12-22 10:29:39 : INFO] - WP: 6.1.1 
+[2022-12-22 10:29:39 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:29:39 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:29:39 : INFO] - WPLANG: en_US 
+[2022-12-22 10:29:39 : INFO] - Server: Apache 
+[2022-12-22 10:29:39 : INFO] - Outbound connections: N 
+[2022-12-22 10:29:39 : INFO] - safe_mode: 0 
+[2022-12-22 10:29:39 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:29:39 : INFO] - memory_limit: 512M (used: 23.1M | 24M) 
+[2022-12-22 10:29:39 : INFO] - multisite: N 
+[2022-12-22 10:29:39 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:29:39 : INFO] - A total of 22 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:29:39 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) already existed in the database 
+[2022-12-22 10:29:39 : INFO] - Lock (updraft_lock_smush, wpf_options) could not be acquired (it is locked) 
+[2022-12-22 10:29:39 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-12-22 10:29:39 : INFO] - 75 
+[2022-12-22 10:29:45 : INFO] - Re_Smush_It_Task - Attachment ID : 4124, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:29:45 : INFO] - 75 
+[2022-12-22 10:29:47 : INFO] - Re_Smush_It_Task - Attachment ID : 4124, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:29:48 : INFO] - 75 
+[2022-12-22 10:29:52 : INFO] - Re_Smush_It_Task - Attachment ID : 4124, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:29:56 : INFO] - 75 
+[2022-12-22 10:30:04 : INFO] - Re_Smush_It_Task - Attachment ID : 4124, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:05 : INFO] - 75 
+[2022-12-22 10:30:09 : INFO] - Re_Smush_It_Task - Attachment ID : 4124, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:09 : INFO] - 75 
+[2022-12-22 10:30:12 : INFO] - Re_Smush_It_Task - Attachment ID : 4124, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:12 : INFO] - 75 
+[2022-12-22 10:30:14 : INFO] - Re_Smush_It_Task - Attachment ID : 4124, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:15 : INFO] - 75 
+[2022-12-22 10:30:18 : INFO] - Re_Smush_It_Task - Attachment ID : 4124, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:18 : INFO] - 75 
+[2022-12-22 10:30:23 : INFO] - Re_Smush_It_Task - Attachment ID : 4124, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:23 : INFO] - 75 
+[2022-12-22 10:30:24 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/10/Untitled-1.png.The file was compressed from 2.03 MB to 650.29 KB saving 68.65 percent using WP-Optimize 
+[2022-12-22 10:30:24 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2022-12-22 10:30:24 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2022-12-22 10:30:24 : INFO] - Re_Smush_It_Task - Attachment ID : 4146, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:24 : INFO] - 75 
+[2022-12-22 10:30:24 : INFO] - Task with ID 11 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2022-12-22 10:30:24 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-12-22 10:30:24 : INFO] - Re_Smush_It_Task - Attachment ID : 4146, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:24 : INFO] - 75 
+[2022-12-22 10:30:27 : INFO] - Re_Smush_It_Task - Attachment ID : 4146, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:27 : INFO] - 75 
+[2022-12-22 10:30:28 : INFO] - Re_Smush_It_Task - Attachment ID : 4146, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:28 : INFO] - 75 
+[2022-12-22 10:30:30 : INFO] - Re_Smush_It_Task - Attachment ID : 4146, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:30 : INFO] - 75 
+[2022-12-22 10:30:31 : INFO] - Re_Smush_It_Task - Attachment ID : 4146, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:32 : INFO] - 75 
+[2022-12-22 10:30:34 : INFO] - Re_Smush_It_Task - Attachment ID : 4146, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:34 : INFO] - 75 
+[2022-12-22 10:30:37 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/10/seller-icon.png.The file was compressed from 68.98 KB to 68.98 KB saving 0 percent using WP-Optimize 
+[2022-12-22 10:30:37 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2022-12-22 10:30:37 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2022-12-22 10:30:37 : INFO] - Re_Smush_It_Task - Attachment ID : 4147, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:37 : INFO] - 75 
+[2022-12-22 10:30:39 : INFO] - Backing up the original image - 2022/10/seller-icon-large-updraft-pre-smush-original.png 
+[2022-12-22 10:30:39 : INFO] - Re_Smush_It_Task - Attachment ID : 4147, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:39 : INFO] - 75 
+[2022-12-22 10:30:39 : INFO] - 
+ 
+[2022-12-22 10:30:39 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:30:39 +0000 on https://find420.com 
+[2022-12-22 10:30:39 : INFO] - WP: 6.1.1 
+[2022-12-22 10:30:39 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:30:39 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:30:39 : INFO] - WPLANG: en_US 
+[2022-12-22 10:30:39 : INFO] - Server: Apache 
+[2022-12-22 10:30:39 : INFO] - Outbound connections: N 
+[2022-12-22 10:30:39 : INFO] - safe_mode: 0 
+[2022-12-22 10:30:39 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:30:39 : INFO] - memory_limit: 512M (used: 23M | 24M) 
+[2022-12-22 10:30:39 : INFO] - multisite: N 
+[2022-12-22 10:30:39 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:30:39 : INFO] - A total of 20 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:30:39 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) already existed in the database 
+[2022-12-22 10:30:39 : INFO] - Lock (updraft_lock_smush, wpf_options) could not be acquired (it is locked) 
+[2022-12-22 10:30:39 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-12-22 10:30:41 : INFO] - Re_Smush_It_Task - Attachment ID : 4147, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:41 : INFO] - 75 
+[2022-12-22 10:30:42 : INFO] - Re_Smush_It_Task - Attachment ID : 4147, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:42 : INFO] - 75 
+[2022-12-22 10:30:44 : INFO] - Re_Smush_It_Task - Attachment ID : 4147, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:44 : INFO] - 75 
+[2022-12-22 10:30:45 : INFO] - Re_Smush_It_Task - Attachment ID : 4147, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:45 : INFO] - 75 
+[2022-12-22 10:30:47 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/10/seller-icon-large.png.The file was compressed from 11.92 KB to 6.36 KB saving 46.66 percent using WP-Optimize 
+[2022-12-22 10:30:47 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2022-12-22 10:30:47 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2022-12-22 10:30:47 : INFO] - Re_Smush_It_Task - Attachment ID : 4148, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:47 : INFO] - 75 
+[2022-12-22 10:30:49 : INFO] - Backing up the original image - 2022/10/dispensary-icon-updraft-pre-smush-original.png 
+[2022-12-22 10:30:49 : INFO] - Re_Smush_It_Task - Attachment ID : 4148, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:49 : INFO] - 75 
+[2022-12-22 10:30:52 : INFO] - Re_Smush_It_Task - Attachment ID : 4148, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:52 : INFO] - 75 
+[2022-12-22 10:30:53 : INFO] - Re_Smush_It_Task - Attachment ID : 4148, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:54 : INFO] - 75 
+[2022-12-22 10:30:56 : INFO] - Re_Smush_It_Task - Attachment ID : 4148, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:56 : INFO] - 75 
+[2022-12-22 10:30:59 : INFO] - Re_Smush_It_Task - Attachment ID : 4148, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:30:59 : INFO] - 75 
+[2022-12-22 10:31:04 : INFO] - Re_Smush_It_Task - Attachment ID : 4148, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:31:04 : INFO] - 75 
+[2022-12-22 10:31:07 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/10/dispensary-icon.png.The file was compressed from 19.25 KB to 18.46 KB saving 4.12 percent using WP-Optimize 
+[2022-12-22 10:31:07 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2022-12-22 10:31:07 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2022-12-22 10:31:07 : INFO] - Re_Smush_It_Task - Attachment ID : 4149, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:31:07 : INFO] - 75 
+[2022-12-22 10:31:10 : INFO] - Backing up the original image - 2022/10/dispensary-icon-large-updraft-pre-smush-original.png 
+[2022-12-22 10:31:10 : INFO] - Re_Smush_It_Task - Attachment ID : 4149, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:31:10 : INFO] - 75 
+[2022-12-22 10:31:15 : INFO] - Re_Smush_It_Task - Attachment ID : 4149, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:31:15 : INFO] - 75 
+[2022-12-22 10:31:17 : INFO] - Re_Smush_It_Task - Attachment ID : 4149, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:31:18 : INFO] - 75 
+[2022-12-22 10:31:22 : INFO] - Re_Smush_It_Task - Attachment ID : 4149, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:31:22 : INFO] - 75 
+[2022-12-22 10:31:24 : INFO] - Re_Smush_It_Task - Attachment ID : 4149, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:31:24 : INFO] - 75 
+[2022-12-22 10:31:25 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/10/dispensary-icon-large.png.The file was compressed from 7.29 KB to 6.32 KB saving 13.31 percent using WP-Optimize 
+[2022-12-22 10:31:25 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2022-12-22 10:31:25 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2022-12-22 10:31:25 : INFO] - Re_Smush_It_Task - Attachment ID : 4162, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:31:25 : INFO] - 75 
+[2022-12-22 10:31:30 : INFO] - Backing up the original image - 2022/10/image-updraft-pre-smush-original.png 
+[2022-12-22 10:31:30 : INFO] - Re_Smush_It_Task - Attachment ID : 4162, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:31:30 : INFO] - 75 
+[2022-12-22 10:31:33 : INFO] - Re_Smush_It_Task - Attachment ID : 4162, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:31:33 : INFO] - 75 
+[2022-12-22 10:31:36 : INFO] - Re_Smush_It_Task - Attachment ID : 4162, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:31:36 : INFO] - 75 
+[2022-12-22 10:31:39 : INFO] - 
+ 
+[2022-12-22 10:31:39 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:31:39 +0000 on https://find420.com 
+[2022-12-22 10:31:39 : INFO] - WP: 6.1.1 
+[2022-12-22 10:31:39 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:31:39 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:31:39 : INFO] - WPLANG: en_US 
+[2022-12-22 10:31:39 : INFO] - Server: Apache 
+[2022-12-22 10:31:39 : INFO] - Outbound connections: N 
+[2022-12-22 10:31:39 : INFO] - safe_mode: 0 
+[2022-12-22 10:31:39 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:31:39 : INFO] - memory_limit: 512M (used: 23M | 24M) 
+[2022-12-22 10:31:39 : INFO] - multisite: N 
+[2022-12-22 10:31:39 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:31:39 : INFO] - A total of 17 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:31:39 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) already existed in the database 
+[2022-12-22 10:31:39 : INFO] - Lock (updraft_lock_smush, wpf_options) could not be acquired (it is locked) 
+[2022-12-22 10:31:39 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-12-22 10:32:39 : INFO] - 
+ 
+[2022-12-22 10:32:39 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:32:39 +0000 on https://find420.com 
+[2022-12-22 10:32:39 : INFO] - WP: 6.1.1 
+[2022-12-22 10:32:39 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:32:39 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:32:39 : INFO] - WPLANG: en_US 
+[2022-12-22 10:32:39 : INFO] - Server: Apache 
+[2022-12-22 10:32:39 : INFO] - Outbound connections: N 
+[2022-12-22 10:32:39 : INFO] - safe_mode: 0 
+[2022-12-22 10:32:39 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:32:39 : INFO] - memory_limit: 512M (used: 23M | 24M) 
+[2022-12-22 10:32:39 : INFO] - multisite: N 
+[2022-12-22 10:32:39 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:32:39 : INFO] - A total of 17 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:32:39 : INFO] - Lock (updraft_lock_smush, wpf_options) acquired 
+[2022-12-22 10:32:39 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2022-12-22 10:32:39 : INFO] - Re_Smush_It_Task - Attachment ID : 4162, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:32:39 : INFO] - 75 
+[2022-12-22 10:32:43 : INFO] - Backing up the original image - 2022/10/image-updraft-pre-smush-original.png 
+[2022-12-22 10:32:43 : INFO] - Re_Smush_It_Task - Attachment ID : 4162, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:32:43 : INFO] - 75 
+[2022-12-22 10:32:45 : INFO] - Re_Smush_It_Task - Attachment ID : 4162, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:32:45 : INFO] - 75 
+[2022-12-22 10:32:46 : INFO] - Re_Smush_It_Task - Attachment ID : 4162, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:32:47 : INFO] - 75 
+[2022-12-22 10:32:51 : INFO] - Re_Smush_It_Task - Attachment ID : 4162, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:32:51 : INFO] - 75 
+[2022-12-22 10:32:54 : INFO] - Re_Smush_It_Task - Attachment ID : 4162, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:32:54 : INFO] - 75 
+[2022-12-22 10:32:56 : INFO] - Re_Smush_It_Task - Attachment ID : 4162, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:32:57 : INFO] - 75 
+[2022-12-22 10:32:58 : INFO] - Re_Smush_It_Task - Attachment ID : 4162, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:32:58 : INFO] - 75 
+[2022-12-22 10:33:01 : INFO] - Re_Smush_It_Task - Attachment ID : 4162, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:02 : INFO] - 75 
+[2022-12-22 10:33:03 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/10/image.png.The file was compressed from 101.69 KB to 101.65 KB saving 0.04 percent using WP-Optimize 
+[2022-12-22 10:33:03 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2022-12-22 10:33:03 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2022-12-22 10:33:03 : INFO] - Re_Smush_It_Task - Attachment ID : 4333, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:03 : INFO] - 75 
+[2022-12-22 10:33:04 : INFO] - Backing up the original image - 2022/11/user-1-updraft-pre-smush-original.png 
+[2022-12-22 10:33:04 : INFO] - Re_Smush_It_Task - Attachment ID : 4333, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:04 : INFO] - 75 
+[2022-12-22 10:33:06 : INFO] - Re_Smush_It_Task - Attachment ID : 4333, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:06 : INFO] - 75 
+[2022-12-22 10:33:07 : INFO] - Re_Smush_It_Task - Attachment ID : 4333, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:07 : INFO] - 75 
+[2022-12-22 10:33:08 : INFO] - Re_Smush_It_Task - Attachment ID : 4333, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:08 : INFO] - 75 
+[2022-12-22 10:33:10 : INFO] - Re_Smush_It_Task - Attachment ID : 4333, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:10 : INFO] - 75 
+[2022-12-22 10:33:11 : INFO] - Re_Smush_It_Task - Attachment ID : 4333, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:11 : INFO] - 75 
+[2022-12-22 10:33:12 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/11/user-1.png.The file was compressed from 22.39 KB to 11.48 KB saving 48.76 percent using WP-Optimize 
+[2022-12-22 10:33:12 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2022-12-22 10:33:12 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2022-12-22 10:33:12 : INFO] - Re_Smush_It_Task - Attachment ID : 4334, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:12 : INFO] - 75 
+[2022-12-22 10:33:13 : INFO] - Backing up the original image - 2022/11/user-1-1-updraft-pre-smush-original.png 
+[2022-12-22 10:33:13 : INFO] - Re_Smush_It_Task - Attachment ID : 4334, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:14 : INFO] - 75 
+[2022-12-22 10:33:15 : INFO] - Re_Smush_It_Task - Attachment ID : 4334, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:15 : INFO] - 75 
+[2022-12-22 10:33:16 : INFO] - Re_Smush_It_Task - Attachment ID : 4334, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:16 : INFO] - 75 
+[2022-12-22 10:33:17 : INFO] - Re_Smush_It_Task - Attachment ID : 4334, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:18 : INFO] - 75 
+[2022-12-22 10:33:19 : INFO] - Re_Smush_It_Task - Attachment ID : 4334, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:19 : INFO] - 75 
+[2022-12-22 10:33:20 : INFO] - Re_Smush_It_Task - Attachment ID : 4334, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:20 : INFO] - 75 
+[2022-12-22 10:33:21 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/11/user-1-1.png.The file was compressed from 22.39 KB to 11.48 KB saving 48.76 percent using WP-Optimize 
+[2022-12-22 10:33:21 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2022-12-22 10:33:21 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2022-12-22 10:33:21 : INFO] - Re_Smush_It_Task - Attachment ID : 4338, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:21 : INFO] - 75 
+[2022-12-22 10:33:23 : INFO] - Backing up the original image - 2022/11/user-2-updraft-pre-smush-original.png 
+[2022-12-22 10:33:23 : INFO] - Re_Smush_It_Task - Attachment ID : 4338, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:23 : INFO] - 75 
+[2022-12-22 10:33:24 : INFO] - Re_Smush_It_Task - Attachment ID : 4338, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:24 : INFO] - 75 
+[2022-12-22 10:33:25 : INFO] - Re_Smush_It_Task - Attachment ID : 4338, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:25 : INFO] - 75 
+[2022-12-22 10:33:27 : INFO] - Re_Smush_It_Task - Attachment ID : 4338, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:27 : INFO] - 75 
+[2022-12-22 10:33:28 : INFO] - Re_Smush_It_Task - Attachment ID : 4338, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:29 : INFO] - 75 
+[2022-12-22 10:33:30 : INFO] - Re_Smush_It_Task - Attachment ID : 4338, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:30 : INFO] - 75 
+[2022-12-22 10:33:31 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/11/user-2.png.The file was compressed from 23.96 KB to 11.90 KB saving 50.32 percent using WP-Optimize 
+[2022-12-22 10:33:31 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2022-12-22 10:33:31 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2022-12-22 10:33:31 : INFO] - Re_Smush_It_Task - Attachment ID : 4341, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:31 : INFO] - 75 
+[2022-12-22 10:33:33 : INFO] - Backing up the original image - 2022/11/weed-plant-icon-updraft-pre-smush-original.png 
+[2022-12-22 10:33:33 : INFO] - Re_Smush_It_Task - Attachment ID : 4341, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:33 : INFO] - 75 
+[2022-12-22 10:33:34 : INFO] - Re_Smush_It_Task - Attachment ID : 4341, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:34 : INFO] - 75 
+[2022-12-22 10:33:35 : INFO] - Re_Smush_It_Task - Attachment ID : 4341, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:35 : INFO] - 75 
+[2022-12-22 10:33:37 : INFO] - Re_Smush_It_Task - Attachment ID : 4341, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:37 : INFO] - 75 
+[2022-12-22 10:33:39 : INFO] - 
+ 
+[2022-12-22 10:33:39 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:33:39 +0000 on https://find420.com 
+[2022-12-22 10:33:39 : INFO] - WP: 6.1.1 
+[2022-12-22 10:33:39 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:33:39 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:33:39 : INFO] - WPLANG: en_US 
+[2022-12-22 10:33:39 : INFO] - Server: Apache 
+[2022-12-22 10:33:39 : INFO] - Outbound connections: N 
+[2022-12-22 10:33:39 : INFO] - safe_mode: 0 
+[2022-12-22 10:33:39 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:33:39 : INFO] - memory_limit: 512M (used: 23M | 28M) 
+[2022-12-22 10:33:39 : INFO] - multisite: N 
+[2022-12-22 10:33:39 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:33:39 : INFO] - Re_Smush_It_Task - Attachment ID : 4341, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:39 : INFO] - A total of 13 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:33:39 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) already existed in the database 
+[2022-12-22 10:33:39 : INFO] - Lock (updraft_lock_smush, wpf_options) could not be acquired (it is locked) 
+[2022-12-22 10:33:39 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-12-22 10:33:39 : INFO] - 75 
+[2022-12-22 10:33:40 : INFO] - Re_Smush_It_Task - Attachment ID : 4341, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:40 : INFO] - 75 
+[2022-12-22 10:33:41 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/11/weed-plant-icon.png.The file was compressed from 31.24 KB to 15.17 KB saving 51.43 percent using WP-Optimize 
+[2022-12-22 10:33:41 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2022-12-22 10:33:41 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2022-12-22 10:33:41 : INFO] - Re_Smush_It_Task - Attachment ID : 4348, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:41 : INFO] - 75 
+[2022-12-22 10:33:42 : INFO] - Backing up the original image - 2022/11/user-3-updraft-pre-smush-original.png 
+[2022-12-22 10:33:42 : INFO] - Re_Smush_It_Task - Attachment ID : 4348, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:42 : INFO] - 75 
+[2022-12-22 10:33:44 : INFO] - Re_Smush_It_Task - Attachment ID : 4348, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:44 : INFO] - 75 
+[2022-12-22 10:33:45 : INFO] - Re_Smush_It_Task - Attachment ID : 4348, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:45 : INFO] - 75 
+[2022-12-22 10:33:46 : INFO] - Re_Smush_It_Task - Attachment ID : 4348, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:46 : INFO] - 75 
+[2022-12-22 10:33:48 : INFO] - Re_Smush_It_Task - Attachment ID : 4348, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:48 : INFO] - 75 
+[2022-12-22 10:33:49 : INFO] - Re_Smush_It_Task - Attachment ID : 4348, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:49 : INFO] - 75 
+[2022-12-22 10:33:50 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/11/user-3.png.The file was compressed from 22.80 KB to 10.55 KB saving 53.73 percent using WP-Optimize 
+[2022-12-22 10:33:50 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2022-12-22 10:33:50 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2022-12-22 10:33:50 : INFO] - Re_Smush_It_Task - Attachment ID : 4350, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:50 : INFO] - 75 
+[2022-12-22 10:33:52 : INFO] - Backing up the original image - 2022/11/weed-plant-icon-1-updraft-pre-smush-original.png 
+[2022-12-22 10:33:52 : INFO] - Re_Smush_It_Task - Attachment ID : 4350, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:52 : INFO] - 75 
+[2022-12-22 10:33:54 : INFO] - Re_Smush_It_Task - Attachment ID : 4350, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:54 : INFO] - 75 
+[2022-12-22 10:33:55 : INFO] - Re_Smush_It_Task - Attachment ID : 4350, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:55 : INFO] - 75 
+[2022-12-22 10:33:57 : INFO] - Re_Smush_It_Task - Attachment ID : 4350, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:57 : INFO] - 75 
+[2022-12-22 10:33:58 : INFO] - Re_Smush_It_Task - Attachment ID : 4350, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:58 : INFO] - 75 
+[2022-12-22 10:33:59 : INFO] - Re_Smush_It_Task - Attachment ID : 4350, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:33:59 : INFO] - 75 
+[2022-12-22 10:34:00 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/11/weed-plant-icon-1.png.The file was compressed from 31.24 KB to 15.17 KB saving 51.43 percent using WP-Optimize 
+[2022-12-22 10:34:00 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2022-12-22 10:34:00 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2022-12-22 10:34:00 : INFO] - Re_Smush_It_Task - Attachment ID : 4500, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:34:06 : INFO] - 75 
+[2022-12-22 10:34:11 : INFO] - Task with ID 22 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-12-22 10:34:11 : INFO] - data: {"src":"http:\/\/par5.static.resmush.it\/9e131b65c0bae94c18cfd2ed5c2aba8e\/_src_find420withslash-copy.png","dest":"http:\/\/par5.static.resmush.it\/9e131b65c0bae94c18cfd2ed5c2aba8e\/find420withslash-copy.png","src_size":514390,"dest_size":239726,"percent":53,"output":"json","expires":"Thu, 22 Dec 2022 11:39:09 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-12-22 10:34:11 : INFO] - Re_Smush_It_Task - Attachment ID : 4500, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:34:11 : INFO] - 75 
+[2022-12-22 10:34:13 : INFO] - Re_Smush_It_Task - Attachment ID : 4500, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:34:14 : INFO] - 75 
+[2022-12-22 10:34:19 : INFO] - Re_Smush_It_Task - Attachment ID : 4500, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:34:20 : INFO] - 75 
+[2022-12-22 10:34:22 : INFO] - Re_Smush_It_Task - Attachment ID : 4500, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:34:22 : INFO] - 75 
+[2022-12-22 10:34:26 : INFO] - Re_Smush_It_Task - Attachment ID : 4500, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:34:28 : INFO] - 75 
+[2022-12-22 10:34:36 : INFO] - Re_Smush_It_Task - Attachment ID : 4500, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:34:39 : INFO] - 
+ 
+[2022-12-22 10:34:39 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:34:39 +0000 on https://find420.com 
+[2022-12-22 10:34:39 : INFO] - WP: 6.1.1 
+[2022-12-22 10:34:39 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:34:39 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:34:39 : INFO] - WPLANG: en_US 
+[2022-12-22 10:34:39 : INFO] - Server: Apache 
+[2022-12-22 10:34:39 : INFO] - Outbound connections: N 
+[2022-12-22 10:34:39 : INFO] - safe_mode: 0 
+[2022-12-22 10:34:39 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:34:39 : INFO] - memory_limit: 512M (used: 23M | 26M) 
+[2022-12-22 10:34:39 : INFO] - multisite: N 
+[2022-12-22 10:34:39 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:34:39 : INFO] - A total of 9 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:34:39 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) already existed in the database 
+[2022-12-22 10:34:39 : INFO] - Lock (updraft_lock_smush, wpf_options) could not be acquired (it is locked) 
+[2022-12-22 10:34:39 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-12-22 10:34:39 : INFO] - 75 
+[2022-12-22 10:34:49 : INFO] - Task with ID 22 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-12-22 10:34:49 : INFO] - data: {"src":"http:\/\/par5.static.resmush.it\/8d01164b41d264179f0fb90e8d5e17f2\/_src_find420withslash-copy-2048x1949.png","dest":"http:\/\/par5.static.resmush.it\/8d01164b41d264179f0fb90e8d5e17f2\/find420withslash-copy-2048x1949.png","src_size":479847,"dest_size":243029,"percent":49,"output":"json","expires":"Thu, 22 Dec 2022 11:39:42 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-12-22 10:34:49 : INFO] - Re_Smush_It_Task - Attachment ID : 4500, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:34:49 : INFO] - 75 
+[2022-12-22 10:34:54 : INFO] - Re_Smush_It_Task - Attachment ID : 4500, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:34:54 : INFO] - 75 
+[2022-12-22 10:34:56 : INFO] - Re_Smush_It_Task - Attachment ID : 4500, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:34:57 : INFO] - 75 
+[2022-12-22 10:34:58 : INFO] - Task with ID 22 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-12-22 10:34:58 : INFO] - data: {"src":"http:\/\/par5.static.resmush.it\/6171cf5f2902fa850eebd70ab2e1c3c5\/_src_find420withslash-copy-223x136.png","dest":"http:\/\/par5.static.resmush.it\/6171cf5f2902fa850eebd70ab2e1c3c5\/find420withslash-copy-223x136.png","src_size":23319,"dest_size":12371,"percent":47,"output":"json","expires":"Thu, 22 Dec 2022 11:39:57 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-12-22 10:34:58 : INFO] - Re_Smush_It_Task - Attachment ID : 4500, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:34:58 : INFO] - 75 
+[2022-12-22 10:34:58 : INFO] - Task with ID 22 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2022-12-22 10:34:58 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-12-22 10:34:58 : INFO] - Re_Smush_It_Task - Attachment ID : 4500, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:34:59 : INFO] - 75 
+[2022-12-22 10:35:02 : INFO] - Re_Smush_It_Task - Attachment ID : 4500, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:35:02 : INFO] - 75 
+[2022-12-22 10:35:04 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/12/find420withslash-copy.png.The file was compressed from 502.33 KB to 502.33 KB saving 0 percent using WP-Optimize 
+[2022-12-22 10:35:04 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2022-12-22 10:35:04 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2022-12-22 10:35:04 : INFO] - Re_Smush_It_Task - Attachment ID : 4502, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:35:09 : INFO] - 75 
+[2022-12-22 10:35:23 : INFO] - Backing up the original image - 2022/12/find42-updraft-pre-smush-original.png 
+[2022-12-22 10:35:23 : INFO] - Re_Smush_It_Task - Attachment ID : 4502, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:35:23 : INFO] - 75 
+[2022-12-22 10:35:25 : INFO] - Re_Smush_It_Task - Attachment ID : 4502, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:35:26 : INFO] - 75 
+[2022-12-22 10:35:33 : INFO] - Re_Smush_It_Task - Attachment ID : 4502, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:35:33 : INFO] - 75 
+[2022-12-22 10:35:39 : INFO] - Re_Smush_It_Task - Attachment ID : 4502, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:35:39 : INFO] - 75 
+[2022-12-22 10:35:43 : INFO] - 
+ 
+[2022-12-22 10:35:43 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:35:43 +0000 on https://find420.com 
+[2022-12-22 10:35:43 : INFO] - WP: 6.1.1 
+[2022-12-22 10:35:43 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:35:43 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:35:43 : INFO] - WPLANG: en_US 
+[2022-12-22 10:35:43 : INFO] - Server: Apache 
+[2022-12-22 10:35:43 : INFO] - Outbound connections: N 
+[2022-12-22 10:35:43 : INFO] - safe_mode: 0 
+[2022-12-22 10:35:43 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:35:43 : INFO] - memory_limit: 512M (used: 23M | 24M) 
+[2022-12-22 10:35:43 : INFO] - multisite: N 
+[2022-12-22 10:35:43 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:35:43 : INFO] - A total of 9 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:35:43 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) already existed in the database 
+[2022-12-22 10:35:43 : INFO] - Lock (updraft_lock_smush, wpf_options) could not be acquired (it is locked) 
+[2022-12-22 10:35:43 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-12-22 10:35:44 : INFO] - Re_Smush_It_Task - Attachment ID : 4502, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:35:46 : INFO] - 75 
+[2022-12-22 10:35:53 : INFO] - Re_Smush_It_Task - Attachment ID : 4502, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:35:57 : INFO] - 75 
+[2022-12-22 10:36:04 : INFO] - Re_Smush_It_Task - Attachment ID : 4502, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:36:05 : INFO] - 75 
+[2022-12-22 10:36:07 : INFO] - Re_Smush_It_Task - Attachment ID : 4502, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:36:07 : INFO] - 75 
+[2022-12-22 10:36:09 : INFO] - Re_Smush_It_Task - Attachment ID : 4502, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:36:09 : INFO] - 75 
+[2022-12-22 10:36:10 : INFO] - Re_Smush_It_Task - Attachment ID : 4502, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:36:11 : INFO] - 75 
+[2022-12-22 10:36:12 : INFO] - Re_Smush_It_Task - Attachment ID : 4502, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:36:13 : INFO] - 75 
+[2022-12-22 10:36:16 : INFO] - Re_Smush_It_Task - Attachment ID : 4502, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:36:16 : INFO] - 75 
+[2022-12-22 10:36:17 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/12/find42.png.The file was compressed from 709.89 KB to 239.32 KB saving 66.29 percent using WP-Optimize 
+[2022-12-22 10:36:17 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2022-12-22 10:36:17 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2022-12-22 10:36:17 : INFO] - Re_Smush_It_Task - Attachment ID : 4503, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:36:22 : INFO] - 75 
+[2022-12-22 10:36:31 : INFO] - Backing up the original image - 2022/12/cropped-find42-updraft-pre-smush-original.png 
+[2022-12-22 10:36:31 : INFO] - Re_Smush_It_Task - Attachment ID : 4503, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:36:32 : INFO] - 75 
+[2022-12-22 10:36:34 : INFO] - Re_Smush_It_Task - Attachment ID : 4503, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:36:34 : INFO] - 75 
+[2022-12-22 10:36:41 : INFO] - Re_Smush_It_Task - Attachment ID : 4503, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:36:41 : INFO] - 75 
+[2022-12-22 10:36:43 : INFO] - 
+ 
+[2022-12-22 10:36:43 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:36:43 +0000 on https://find420.com 
+[2022-12-22 10:36:43 : INFO] - WP: 6.1.1 
+[2022-12-22 10:36:43 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:36:43 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:36:43 : INFO] - WPLANG: en_US 
+[2022-12-22 10:36:43 : INFO] - Server: Apache 
+[2022-12-22 10:36:43 : INFO] - Outbound connections: N 
+[2022-12-22 10:36:43 : INFO] - safe_mode: 0 
+[2022-12-22 10:36:43 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:36:43 : INFO] - memory_limit: 512M (used: 23M | 24M) 
+[2022-12-22 10:36:43 : INFO] - multisite: N 
+[2022-12-22 10:36:43 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:36:43 : INFO] - A total of 8 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:36:43 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) already existed in the database 
+[2022-12-22 10:36:43 : INFO] - Lock (updraft_lock_smush, wpf_options) could not be acquired (it is locked) 
+[2022-12-22 10:36:43 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-12-22 10:36:43 : INFO] - Re_Smush_It_Task - Attachment ID : 4503, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:36:43 : INFO] - 75 
+[2022-12-22 10:36:53 : INFO] - Re_Smush_It_Task - Attachment ID : 4503, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:36:55 : INFO] - 75 
+[2022-12-22 10:37:02 : INFO] - Re_Smush_It_Task - Attachment ID : 4503, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:37:06 : INFO] - 75 
+[2022-12-22 10:37:14 : INFO] - Re_Smush_It_Task - Attachment ID : 4503, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:37:14 : INFO] - 75 
+[2022-12-22 10:37:20 : INFO] - Re_Smush_It_Task - Attachment ID : 4503, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:37:20 : INFO] - 75 
+[2022-12-22 10:37:23 : INFO] - Re_Smush_It_Task - Attachment ID : 4503, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:37:24 : INFO] - 75 
+[2022-12-22 10:37:25 : INFO] - Re_Smush_It_Task - Attachment ID : 4503, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:37:25 : INFO] - 75 
+[2022-12-22 10:37:27 : INFO] - Re_Smush_It_Task - Attachment ID : 4503, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:37:28 : INFO] - 75 
+[2022-12-22 10:37:32 : INFO] - Re_Smush_It_Task - Attachment ID : 4503, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:37:32 : INFO] - 75 
+[2022-12-22 10:37:33 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/12/cropped-find42.png.The file was compressed from 709.31 KB to 239.32 KB saving 66.26 percent using WP-Optimize 
+[2022-12-22 10:37:33 : INFO] - Completed processing task with ID : 24, and type 'smush' 
+[2022-12-22 10:37:33 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2022-12-22 10:37:33 : INFO] - Re_Smush_It_Task - Attachment ID : 4508, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:37:33 : INFO] - 75 
+[2022-12-22 10:37:37 : INFO] - Backing up the original image - 2022/12/FYSmR9aaQAAyG4i-updraft-pre-smush-original.png 
+[2022-12-22 10:37:37 : INFO] - Re_Smush_It_Task - Attachment ID : 4508, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:37:37 : INFO] - 75 
+[2022-12-22 10:37:43 : INFO] - 
+ 
+[2022-12-22 10:37:43 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:37:43 +0000 on https://find420.com 
+[2022-12-22 10:37:43 : INFO] - WP: 6.1.1 
+[2022-12-22 10:37:43 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:37:43 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:37:43 : INFO] - WPLANG: en_US 
+[2022-12-22 10:37:43 : INFO] - Server: Apache 
+[2022-12-22 10:37:43 : INFO] - Outbound connections: N 
+[2022-12-22 10:37:43 : INFO] - safe_mode: 0 
+[2022-12-22 10:37:43 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:37:43 : INFO] - memory_limit: 512M (used: 23M | 24M) 
+[2022-12-22 10:37:43 : INFO] - multisite: N 
+[2022-12-22 10:37:43 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:37:43 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:37:43 : INFO] - Lock (updraft_lock_smush, wpf_options) acquired 
+[2022-12-22 10:37:46 : INFO] - Task with ID 25 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2022-12-22 10:37:46 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2022-12-22 10:37:46 : INFO] - Re_Smush_It_Task - Attachment ID : 4509, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:37:46 : INFO] - 75 
+[2022-12-22 10:37:49 : INFO] - Backing up the original image - 2022/12/FYSmR9aaQAAyG4i-1-updraft-pre-smush-original.png 
+[2022-12-22 10:37:49 : INFO] - Re_Smush_It_Task - Attachment ID : 4509, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:37:49 : INFO] - 75 
+[2022-12-22 10:37:51 : INFO] - Re_Smush_It_Task - Attachment ID : 4509, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:37:51 : INFO] - 75 
+[2022-12-22 10:37:52 : INFO] - Re_Smush_It_Task - Attachment ID : 4509, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:37:52 : INFO] - 75 
+[2022-12-22 10:37:56 : INFO] - Re_Smush_It_Task - Attachment ID : 4509, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:37:56 : INFO] - 75 
+[2022-12-22 10:37:58 : INFO] - Re_Smush_It_Task - Attachment ID : 4509, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:37:58 : INFO] - 75 
+[2022-12-22 10:37:59 : INFO] - Re_Smush_It_Task - Attachment ID : 4509, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:37:59 : INFO] - 75 
+[2022-12-22 10:38:02 : INFO] - Re_Smush_It_Task - Attachment ID : 4509, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:38:02 : INFO] - 75 
+[2022-12-22 10:38:06 : INFO] - Re_Smush_It_Task - Attachment ID : 4509, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:38:06 : INFO] - 75 
+[2022-12-22 10:38:08 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/12/FYSmR9aaQAAyG4i-1.png.The file was compressed from 106.11 KB to 48.73 KB saving 54.08 percent using WP-Optimize 
+[2022-12-22 10:38:08 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2022-12-22 10:38:08 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2022-12-22 10:38:08 : INFO] - Re_Smush_It_Task - Attachment ID : 4511, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:38:12 : INFO] - 75 
+[2022-12-22 10:38:25 : INFO] - Backing up the original image - 2022/12/leaning-pose-updraft-pre-smush-original.png 
+[2022-12-22 10:38:25 : INFO] - Re_Smush_It_Task - Attachment ID : 4511, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:38:25 : INFO] - 75 
+[2022-12-22 10:38:27 : INFO] - Re_Smush_It_Task - Attachment ID : 4511, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:38:28 : INFO] - 75 
+[2022-12-22 10:38:33 : INFO] - Re_Smush_It_Task - Attachment ID : 4511, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:38:34 : INFO] - 75 
+[2022-12-22 10:38:38 : INFO] - Re_Smush_It_Task - Attachment ID : 4511, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:38:39 : INFO] - 75 
+[2022-12-22 10:38:43 : INFO] - 
+ 
+[2022-12-22 10:38:43 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:38:43 +0000 on https://find420.com 
+[2022-12-22 10:38:43 : INFO] - WP: 6.1.1 
+[2022-12-22 10:38:43 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:38:43 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:38:43 : INFO] - WPLANG: en_US 
+[2022-12-22 10:38:43 : INFO] - Server: Apache 
+[2022-12-22 10:38:43 : INFO] - Outbound connections: N 
+[2022-12-22 10:38:43 : INFO] - safe_mode: 0 
+[2022-12-22 10:38:43 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:38:43 : INFO] - memory_limit: 512M (used: 22.9M | 24M) 
+[2022-12-22 10:38:43 : INFO] - multisite: N 
+[2022-12-22 10:38:43 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:38:43 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:38:43 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) already existed in the database 
+[2022-12-22 10:38:43 : INFO] - Lock (updraft_lock_smush, wpf_options) could not be acquired (it is locked) 
+[2022-12-22 10:38:43 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-12-22 10:38:45 : INFO] - Re_Smush_It_Task - Attachment ID : 4511, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:38:48 : INFO] - 75 
+[2022-12-22 10:38:55 : INFO] - Re_Smush_It_Task - Attachment ID : 4511, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:38:56 : INFO] - 75 
+[2022-12-22 10:39:01 : INFO] - Re_Smush_It_Task - Attachment ID : 4511, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:39:01 : INFO] - 75 
+[2022-12-22 10:39:04 : INFO] - Re_Smush_It_Task - Attachment ID : 4511, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:39:04 : INFO] - 75 
+[2022-12-22 10:39:05 : INFO] - Re_Smush_It_Task - Attachment ID : 4511, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:39:06 : INFO] - 75 
+[2022-12-22 10:39:08 : INFO] - Re_Smush_It_Task - Attachment ID : 4511, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:39:08 : INFO] - 75 
+[2022-12-22 10:39:14 : INFO] - Re_Smush_It_Task - Attachment ID : 4511, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:39:14 : INFO] - 75 
+[2022-12-22 10:39:16 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/12/leaning-pose.png.The file was compressed from 878.47 KB to 272.21 KB saving 69.01 percent using WP-Optimize 
+[2022-12-22 10:39:16 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2022-12-22 10:39:16 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2022-12-22 10:39:16 : INFO] - Re_Smush_It_Task - Attachment ID : 4512, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:39:21 : INFO] - 75 
+[2022-12-22 10:39:29 : INFO] - Backing up the original image - 2022/12/cropped-leaning-pose-updraft-pre-smush-original.png 
+[2022-12-22 10:39:29 : INFO] - Re_Smush_It_Task - Attachment ID : 4512, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:39:29 : INFO] - 75 
+[2022-12-22 10:39:32 : INFO] - Re_Smush_It_Task - Attachment ID : 4512, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:39:33 : INFO] - 75 
+[2022-12-22 10:39:41 : INFO] - Re_Smush_It_Task - Attachment ID : 4512, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:39:41 : INFO] - 75 
+[2022-12-22 10:39:43 : INFO] - Re_Smush_It_Task - Attachment ID : 4512, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:39:43 : INFO] - 75 
+[2022-12-22 10:39:44 : INFO] - 
+ 
+[2022-12-22 10:39:44 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:39:44 +0000 on https://find420.com 
+[2022-12-22 10:39:44 : INFO] - WP: 6.1.1 
+[2022-12-22 10:39:44 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:39:44 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:39:44 : INFO] - WPLANG: en_US 
+[2022-12-22 10:39:44 : INFO] - Server: Apache 
+[2022-12-22 10:39:44 : INFO] - Outbound connections: N 
+[2022-12-22 10:39:44 : INFO] - safe_mode: 0 
+[2022-12-22 10:39:44 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:39:44 : INFO] - memory_limit: 512M (used: 22.9M | 26M) 
+[2022-12-22 10:39:44 : INFO] - multisite: N 
+[2022-12-22 10:39:44 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:39:44 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:39:44 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) already existed in the database 
+[2022-12-22 10:39:44 : INFO] - Lock (updraft_lock_smush, wpf_options) could not be acquired (it is locked) 
+[2022-12-22 10:39:44 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-12-22 10:39:48 : INFO] - Re_Smush_It_Task - Attachment ID : 4512, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:39:51 : INFO] - 75 
+[2022-12-22 10:39:59 : INFO] - Re_Smush_It_Task - Attachment ID : 4512, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:39:59 : INFO] - 75 
+[2022-12-22 10:40:03 : INFO] - Re_Smush_It_Task - Attachment ID : 4512, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:40:03 : INFO] - 75 
+[2022-12-22 10:40:05 : INFO] - Re_Smush_It_Task - Attachment ID : 4512, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:40:05 : INFO] - 75 
+[2022-12-22 10:40:07 : INFO] - Re_Smush_It_Task - Attachment ID : 4512, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:40:07 : INFO] - 75 
+[2022-12-22 10:40:10 : INFO] - Re_Smush_It_Task - Attachment ID : 4512, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:40:10 : INFO] - 75 
+[2022-12-22 10:40:13 : INFO] - Re_Smush_It_Task - Attachment ID : 4512, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:40:13 : INFO] - 75 
+[2022-12-22 10:40:15 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/12/cropped-leaning-pose.png.The file was compressed from 864.90 KB to 272.21 KB saving 68.53 percent using WP-Optimize 
+[2022-12-22 10:40:15 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2022-12-22 10:40:15 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2022-12-22 10:40:15 : INFO] - Re_Smush_It_Task - Attachment ID : 4514, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:40:32 : INFO] - 75 
+[2022-12-22 10:40:44 : INFO] - Task with ID 29 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-12-22 10:40:44 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/7b40e671f555cdbd5d241fe39eeb728b\/_src_front-20.12.22-01.png","dest":"http:\/\/par2.static.resmush.it\/7b40e671f555cdbd5d241fe39eeb728b\/front-20.12.22-01.png","src_size":1744999,"dest_size":795739,"percent":54,"output":"json","expires":"Thu, 22 Dec 2022 11:45:37 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-12-22 10:40:44 : INFO] - Re_Smush_It_Task - Attachment ID : 4514, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:40:44 : INFO] - 75 
+[2022-12-22 10:40:46 : INFO] - 
+ 
+[2022-12-22 10:40:46 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:40:46 +0000 on https://find420.com 
+[2022-12-22 10:40:46 : INFO] - WP: 6.1.1 
+[2022-12-22 10:40:46 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:40:46 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:40:46 : INFO] - WPLANG: en_US 
+[2022-12-22 10:40:46 : INFO] - Server: Apache 
+[2022-12-22 10:40:46 : INFO] - Outbound connections: N 
+[2022-12-22 10:40:46 : INFO] - safe_mode: 0 
+[2022-12-22 10:40:46 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:40:46 : INFO] - memory_limit: 512M (used: 22.9M | 24M) 
+[2022-12-22 10:40:46 : INFO] - multisite: N 
+[2022-12-22 10:40:46 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:40:46 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:40:46 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) already existed in the database 
+[2022-12-22 10:40:46 : INFO] - Lock (updraft_lock_smush, wpf_options) could not be acquired (it is locked) 
+[2022-12-22 10:40:46 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-12-22 10:40:46 : INFO] - Re_Smush_It_Task - Attachment ID : 4514, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:40:47 : INFO] - 75 
+[2022-12-22 10:40:52 : INFO] - Re_Smush_It_Task - Attachment ID : 4514, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:40:52 : INFO] - 75 
+[2022-12-22 10:40:53 : INFO] - Re_Smush_It_Task - Attachment ID : 4514, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:40:54 : INFO] - 75 
+[2022-12-22 10:40:59 : INFO] - Re_Smush_It_Task - Attachment ID : 4514, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:41:03 : INFO] - 75 
+[2022-12-22 10:41:10 : INFO] - Re_Smush_It_Task - Attachment ID : 4514, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:41:16 : INFO] - 75 
+[2022-12-22 10:41:29 : INFO] - Re_Smush_It_Task - Attachment ID : 4514, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:41:29 : INFO] - 75 
+[2022-12-22 10:41:32 : INFO] - Re_Smush_It_Task - Attachment ID : 4514, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:41:32 : INFO] - 75 
+[2022-12-22 10:41:34 : INFO] - Re_Smush_It_Task - Attachment ID : 4514, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:41:35 : INFO] - 75 
+[2022-12-22 10:41:36 : INFO] - Re_Smush_It_Task - Attachment ID : 4514, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:41:36 : INFO] - 75 
+[2022-12-22 10:41:38 : INFO] - Re_Smush_It_Task - Attachment ID : 4514, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:41:39 : INFO] - 75 
+[2022-12-22 10:41:44 : INFO] - Re_Smush_It_Task - Attachment ID : 4514, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:41:44 : INFO] - 75 
+[2022-12-22 10:41:45 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/12/front-20.12.22-01.png.The file was compressed from 1.66 MB to 1.66 MB saving 0 percent using WP-Optimize 
+[2022-12-22 10:41:45 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2022-12-22 10:41:45 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2022-12-22 10:41:45 : INFO] - Re_Smush_It_Task - Attachment ID : 4515, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:41:45 : INFO] - 75 
+[2022-12-22 10:41:46 : INFO] - 
+ 
+[2022-12-22 10:41:46 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:41:46 +0000 on https://find420.com 
+[2022-12-22 10:41:46 : INFO] - WP: 6.1.1 
+[2022-12-22 10:41:46 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:41:46 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:41:46 : INFO] - WPLANG: en_US 
+[2022-12-22 10:41:46 : INFO] - Server: Apache 
+[2022-12-22 10:41:46 : INFO] - Outbound connections: N 
+[2022-12-22 10:41:46 : INFO] - safe_mode: 0 
+[2022-12-22 10:41:46 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:41:46 : INFO] - memory_limit: 512M (used: 22.9M | 24M) 
+[2022-12-22 10:41:46 : INFO] - multisite: N 
+[2022-12-22 10:41:46 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:41:46 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:41:46 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) already existed in the database 
+[2022-12-22 10:41:46 : INFO] - Lock (updraft_lock_smush, wpf_options) could not be acquired (it is locked) 
+[2022-12-22 10:41:46 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-12-22 10:41:49 : INFO] - Backing up the original image - 2022/12/cropped-front-20.12.22-01-updraft-pre-smush-original.png 
+[2022-12-22 10:41:49 : INFO] - Re_Smush_It_Task - Attachment ID : 4515, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:41:49 : INFO] - 75 
+[2022-12-22 10:41:51 : INFO] - Re_Smush_It_Task - Attachment ID : 4515, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:41:51 : INFO] - 75 
+[2022-12-22 10:41:53 : INFO] - Re_Smush_It_Task - Attachment ID : 4515, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:41:53 : INFO] - 75 
+[2022-12-22 10:41:57 : INFO] - Re_Smush_It_Task - Attachment ID : 4515, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:41:58 : INFO] - 75 
+[2022-12-22 10:42:00 : INFO] - Re_Smush_It_Task - Attachment ID : 4515, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:42:00 : INFO] - 75 
+[2022-12-22 10:42:01 : INFO] - Re_Smush_It_Task - Attachment ID : 4515, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:42:01 : INFO] - 75 
+[2022-12-22 10:42:02 : INFO] - Re_Smush_It_Task - Attachment ID : 4515, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:42:02 : INFO] - 75 
+[2022-12-22 10:42:05 : INFO] - Re_Smush_It_Task - Attachment ID : 4515, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:42:05 : INFO] - 75 
+[2022-12-22 10:42:07 : INFO] - Re_Smush_It_Task - Attachment ID : 4515, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:42:07 : INFO] - 75 
+[2022-12-22 10:42:08 : INFO] - Re_Smush_It_Task - Attachment ID : 4515, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:42:08 : INFO] - 75 
+[2022-12-22 10:42:09 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/12/cropped-front-20.12.22-01.png.The file was compressed from 134.89 KB to 38.51 KB saving 71.45 percent using WP-Optimize 
+[2022-12-22 10:42:09 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2022-12-22 10:42:09 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2022-12-22 10:42:09 : INFO] - Re_Smush_It_Task - Attachment ID : 4519, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:42:09 : INFO] - 75 
+[2022-12-22 10:42:11 : INFO] - Backing up the original image - 2022/12/logo-updraft-pre-smush-original.png 
+[2022-12-22 10:42:11 : INFO] - Re_Smush_It_Task - Attachment ID : 4519, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:42:11 : INFO] - 75 
+[2022-12-22 10:42:13 : INFO] - Re_Smush_It_Task - Attachment ID : 4519, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:42:13 : INFO] - 75 
+[2022-12-22 10:42:15 : INFO] - Re_Smush_It_Task - Attachment ID : 4519, Started on : December 22, 2022 10:26:39 
+[2022-12-22 10:42:15 : INFO] - 75 
+[2022-12-22 10:42:16 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/12/logo.png.The file was compressed from 46.05 KB to 13.36 KB saving 70.98 percent using WP-Optimize 
+[2022-12-22 10:42:16 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2022-12-22 10:42:16 : INFO] - Lock option (updraft_lock_smush, wpf_options) released 
+[2022-12-22 10:42:16 : INFO] - Successfully processed the queue (smush). 7 tasks were processed out of 7. 
+[2022-12-22 10:42:16 : INFO] - Lock option (updraft_lock_smush, wpf_options) was deleted from the database 
+[2022-12-22 10:42:16 : INFO] - Cleaning up tasks of type (smush). A total of 31 tasks will be deleted. 
+[2022-12-22 10:42:38 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-12-22 10:42:39 : INFO] - 
+ 
+[2022-12-22 10:42:39 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:42:39 +0000 on https://find420.com 
+[2022-12-22 10:42:39 : INFO] - WP: 6.1.1 
+[2022-12-22 10:42:39 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:42:39 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:42:39 : INFO] - WPLANG: en_US 
+[2022-12-22 10:42:39 : INFO] - Server: Apache 
+[2022-12-22 10:42:39 : INFO] - Outbound connections: N 
+[2022-12-22 10:42:39 : INFO] - safe_mode: 0 
+[2022-12-22 10:42:39 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:42:39 : INFO] - memory_limit: 512M (used: 22.9M | 24M) 
+[2022-12-22 10:42:39 : INFO] - multisite: N 
+[2022-12-22 10:42:39 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:42:39 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:42:39 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) was created in the database 
+[2022-12-22 10:42:39 : INFO] - Lock (updraft_lock_smush, wpf_options) acquired after initialising the database 
+[2022-12-22 10:42:39 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2022-12-22 10:42:39 : INFO] - Task with ID 32 and type (smush) failed with error code invalid_file_type - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/09/logo.webp - cannot be optimized, it has an invalid file type 
+[2022-12-22 10:42:39 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2022-12-22 10:42:39 : INFO] - Task with ID 33 and type (smush) failed with error code invalid_file_type - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/09/richard-t-yovhXPl8V1M-unsplash.webp - cannot be optimized, it has an invalid file type 
+[2022-12-22 10:42:39 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2022-12-22 10:42:39 : INFO] - Task with ID 34 and type (smush) failed with error code invalid_file_type - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/09/logo-1.webp - cannot be optimized, it has an invalid file type 
+[2022-12-22 10:42:39 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2022-12-22 10:42:39 : INFO] - Task with ID 35 and type (smush) failed with error code invalid_file_type - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/09/cropped-logo.webp - cannot be optimized, it has an invalid file type 
+[2022-12-22 10:42:39 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2022-12-22 10:42:39 : INFO] - Re_Smush_It_Task - Attachment ID : 4508, Started on : December 22, 2022 10:42:39 
+[2022-12-22 10:42:39 : INFO] - 75 
+[2022-12-22 10:42:42 : INFO] - Backing up the original image - 2022/12/FYSmR9aaQAAyG4i-updraft-pre-smush-original.png 
+[2022-12-22 10:42:42 : INFO] - Re_Smush_It_Task - Attachment ID : 4508, Started on : December 22, 2022 10:42:39 
+[2022-12-22 10:42:42 : INFO] - 75 
+[2022-12-22 10:42:44 : INFO] - Re_Smush_It_Task - Attachment ID : 4508, Started on : December 22, 2022 10:42:39 
+[2022-12-22 10:42:44 : INFO] - 75 
+[2022-12-22 10:42:45 : INFO] - Re_Smush_It_Task - Attachment ID : 4508, Started on : December 22, 2022 10:42:39 
+[2022-12-22 10:42:45 : INFO] - 75 
+[2022-12-22 10:42:47 : INFO] - Re_Smush_It_Task - Attachment ID : 4508, Started on : December 22, 2022 10:42:39 
+[2022-12-22 10:42:48 : INFO] - 75 
+[2022-12-22 10:42:50 : INFO] - Re_Smush_It_Task - Attachment ID : 4508, Started on : December 22, 2022 10:42:39 
+[2022-12-22 10:42:50 : INFO] - 75 
+[2022-12-22 10:42:51 : INFO] - Re_Smush_It_Task - Attachment ID : 4508, Started on : December 22, 2022 10:42:39 
+[2022-12-22 10:42:51 : INFO] - 75 
+[2022-12-22 10:42:53 : INFO] - Re_Smush_It_Task - Attachment ID : 4508, Started on : December 22, 2022 10:42:39 
+[2022-12-22 10:42:53 : INFO] - 75 
+[2022-12-22 10:42:56 : INFO] - Re_Smush_It_Task - Attachment ID : 4508, Started on : December 22, 2022 10:42:39 
+[2022-12-22 10:42:56 : INFO] - 75 
+[2022-12-22 10:42:57 : INFO] - Successfully optimized the image - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/12/FYSmR9aaQAAyG4i.png.The file was compressed from 48.73 KB to 48.73 KB saving 0 percent using WP-Optimize 
+[2022-12-22 10:42:57 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2022-12-22 10:42:57 : INFO] - Lock option (updraft_lock_smush, wpf_options) released 
+[2022-12-22 10:42:57 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2022-12-22 10:42:57 : INFO] - Lock option (updraft_lock_smush, wpf_options) was deleted from the database 
+[2022-12-22 10:42:57 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2022-12-22 10:43:08 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-12-22 10:43:08 : INFO] - 
+ 
+[2022-12-22 10:43:08 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:43:08 +0000 on https://find420.com 
+[2022-12-22 10:43:08 : INFO] - WP: 6.1.1 
+[2022-12-22 10:43:08 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:43:08 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:43:08 : INFO] - WPLANG: en_US 
+[2022-12-22 10:43:08 : INFO] - Server: Apache 
+[2022-12-22 10:43:08 : INFO] - Outbound connections: N 
+[2022-12-22 10:43:08 : INFO] - safe_mode: 0 
+[2022-12-22 10:43:08 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:43:08 : INFO] - memory_limit: 512M (used: 22.9M | 24M) 
+[2022-12-22 10:43:08 : INFO] - multisite: N 
+[2022-12-22 10:43:08 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:43:08 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:43:08 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) was created in the database 
+[2022-12-22 10:43:08 : INFO] - Lock (updraft_lock_smush, wpf_options) acquired after initialising the database 
+[2022-12-22 10:43:08 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2022-12-22 10:43:08 : INFO] - Task with ID 37 and type (smush) failed with error code invalid_file_type - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/09/logo.webp - cannot be optimized, it has an invalid file type 
+[2022-12-22 10:43:08 : INFO] - Lock option (updraft_lock_smush, wpf_options) released 
+[2022-12-22 10:43:08 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-12-22 10:43:08 : INFO] - Lock option (updraft_lock_smush, wpf_options) was deleted from the database 
+[2022-12-22 10:43:08 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-12-22 10:43:21 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-12-22 10:43:22 : INFO] - 
+ 
+[2022-12-22 10:43:22 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:43:22 +0000 on https://find420.com 
+[2022-12-22 10:43:22 : INFO] - WP: 6.1.1 
+[2022-12-22 10:43:22 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:43:22 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:43:22 : INFO] - WPLANG: en_US 
+[2022-12-22 10:43:22 : INFO] - Server: Apache 
+[2022-12-22 10:43:22 : INFO] - Outbound connections: N 
+[2022-12-22 10:43:22 : INFO] - safe_mode: 0 
+[2022-12-22 10:43:22 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:43:22 : INFO] - memory_limit: 512M (used: 22.9M | 24M) 
+[2022-12-22 10:43:22 : INFO] - multisite: N 
+[2022-12-22 10:43:22 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:43:22 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:43:22 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) was created in the database 
+[2022-12-22 10:43:22 : INFO] - Lock (updraft_lock_smush, wpf_options) acquired after initialising the database 
+[2022-12-22 10:43:22 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2022-12-22 10:43:22 : INFO] - Task with ID 38 and type (smush) failed with error code invalid_file_type - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/09/logo.webp - cannot be optimized, it has an invalid file type 
+[2022-12-22 10:43:22 : INFO] - Lock option (updraft_lock_smush, wpf_options) released 
+[2022-12-22 10:43:22 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-12-22 10:43:22 : INFO] - Lock option (updraft_lock_smush, wpf_options) was deleted from the database 
+[2022-12-22 10:43:22 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-12-22 10:43:37 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-12-22 10:43:38 : INFO] - 
+ 
+[2022-12-22 10:43:38 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:43:38 +0000 on https://find420.com 
+[2022-12-22 10:43:38 : INFO] - WP: 6.1.1 
+[2022-12-22 10:43:38 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:43:38 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:43:38 : INFO] - WPLANG: en_US 
+[2022-12-22 10:43:38 : INFO] - Server: Apache 
+[2022-12-22 10:43:38 : INFO] - Outbound connections: N 
+[2022-12-22 10:43:38 : INFO] - safe_mode: 0 
+[2022-12-22 10:43:38 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:43:38 : INFO] - memory_limit: 512M (used: 22.9M | 24M) 
+[2022-12-22 10:43:38 : INFO] - multisite: N 
+[2022-12-22 10:43:38 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:43:38 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:43:38 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) was created in the database 
+[2022-12-22 10:43:38 : INFO] - Lock (updraft_lock_smush, wpf_options) acquired after initialising the database 
+[2022-12-22 10:43:38 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2022-12-22 10:43:38 : INFO] - Task with ID 39 and type (smush) failed with error code invalid_file_type - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/09/cropped-logo.webp - cannot be optimized, it has an invalid file type 
+[2022-12-22 10:43:38 : INFO] - Lock option (updraft_lock_smush, wpf_options) released 
+[2022-12-22 10:43:38 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-12-22 10:43:38 : INFO] - Lock option (updraft_lock_smush, wpf_options) was deleted from the database 
+[2022-12-22 10:43:38 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-12-22 10:52:29 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-12-22 10:52:29 : INFO] - 
+ 
+[2022-12-22 10:52:29 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 10:52:29 +0000 on https://find420.com 
+[2022-12-22 10:52:29 : INFO] - WP: 6.1.1 
+[2022-12-22 10:52:29 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 10:52:29 : INFO] - MySQL: 5.7.40 
+[2022-12-22 10:52:29 : INFO] - WPLANG: en_US 
+[2022-12-22 10:52:29 : INFO] - Server: Apache 
+[2022-12-22 10:52:29 : INFO] - Outbound connections: N 
+[2022-12-22 10:52:29 : INFO] - safe_mode: 0 
+[2022-12-22 10:52:29 : INFO] - max_execution_time: 30000 
+[2022-12-22 10:52:29 : INFO] - memory_limit: 512M (used: 22.9M | 24M) 
+[2022-12-22 10:52:29 : INFO] - multisite: N 
+[2022-12-22 10:52:29 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 10:52:29 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 10:52:29 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) was created in the database 
+[2022-12-22 10:52:29 : INFO] - Lock (updraft_lock_smush, wpf_options) acquired after initialising the database 
+[2022-12-22 10:52:29 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2022-12-22 10:52:29 : INFO] - Task with ID 40 and type (smush) failed with error code invalid_file_type - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/09/logo.webp - cannot be optimized, it has an invalid file type 
+[2022-12-22 10:52:29 : INFO] - Lock option (updraft_lock_smush, wpf_options) released 
+[2022-12-22 10:52:29 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-12-22 10:52:29 : INFO] - Lock option (updraft_lock_smush, wpf_options) was deleted from the database 
+[2022-12-22 10:52:29 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-12-22 11:02:05 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-12-22 11:02:05 : INFO] - 
+ 
+[2022-12-22 11:02:05 : INFO] - Header for logs at time:  Thu, 22 Dec 2022 11:02:05 +0000 on https://find420.com 
+[2022-12-22 11:02:05 : INFO] - WP: 6.1.1 
+[2022-12-22 11:02:05 : INFO] - PHP: 8.0.26 (litespeed, Linux sg2plmcpnl492235.prod.sin2.secureserver.net 2.6.32-954.3.5.lve1.4.86.el6.x86_64 #1 SMP Tue Aug 31 17:08:39 UTC 2021 x86_64) 
+[2022-12-22 11:02:05 : INFO] - MySQL: 5.7.40 
+[2022-12-22 11:02:05 : INFO] - WPLANG: en_US 
+[2022-12-22 11:02:05 : INFO] - Server: Apache 
+[2022-12-22 11:02:05 : INFO] - Outbound connections: N 
+[2022-12-22 11:02:05 : INFO] - safe_mode: 0 
+[2022-12-22 11:02:05 : INFO] - max_execution_time: 30000 
+[2022-12-22 11:02:05 : INFO] - memory_limit: 512M (used: 22.8M | 24M) 
+[2022-12-22 11:02:05 : INFO] - multisite: N 
+[2022-12-22 11:02:05 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-22 11:02:05 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-12-22 11:02:05 : DEBUG] - Lock option (updraft_lock_smush, wpf_options) was created in the database 
+[2022-12-22 11:02:05 : INFO] - Lock (updraft_lock_smush, wpf_options) acquired after initialising the database 
+[2022-12-22 11:02:05 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2022-12-22 11:02:05 : INFO] - Task with ID 41 and type (smush) failed with error code invalid_file_type - /home/t8q0za70thpx/public_html/wp-content/uploads/2022/09/richard-t-yovhXPl8V1M-unsplash.webp - cannot be optimized, it has an invalid file type 
+[2022-12-22 11:02:05 : INFO] - Lock option (updraft_lock_smush, wpf_options) released 
+[2022-12-22 11:02:05 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-12-22 11:02:05 : INFO] - Lock option (updraft_lock_smush, wpf_options) was deleted from the database 
+[2022-12-22 11:02:05 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 

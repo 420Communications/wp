@@ -1,0 +1,4 @@
+[07-Dec-2022 13:11:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/t8q0za70thpx/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/t8q0za70thpx/public_html/wp-includes/blocks/index.php on line 8

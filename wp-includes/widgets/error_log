@@ -1,0 +1,4 @@
+[01-Dec-2022 05:48:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/t8q0za70thpx/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/t8q0za70thpx/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17

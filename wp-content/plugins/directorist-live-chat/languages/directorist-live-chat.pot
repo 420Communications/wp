@@ -1,0 +1,195 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Directorist - Live Chat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-21 07:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.4; wp-5.8.2\n"
+"X-Domain: directorist-live-chat"
+
+#: directorist-live-chat.php:127
+msgid "\"Chat\" Tab Label (User Dashboard)"
+msgstr ""
+
+#: directorist-live-chat.php:122
+msgid "\"Hide Chat\" Button Text"
+msgstr ""
+
+#: directorist-live-chat.php:117
+msgid "\"Show Chat\" Button Text"
+msgstr ""
+
+#: directorist-live-chat.php:112
+msgid "\"Start Chatting\" Button Text"
+msgstr ""
+
+#: directorist-live-chat.php:171 directorist-live-chat.php:225
+#: directorist-live-chat.php:265 directorist-live-chat.php:319
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: directorist-live-chat.php:90 directorist-live-chat.php:128
+msgid "Chat"
+msgstr ""
+
+#: includes/helper.php:222
+msgid ""
+"Dear ==USERNAME==,\n"
+"\n"
+"            You have received a new chat from ==LISTING_LINK== and is "
+"awaiting for your reply. Visit the link to continue the conversation. \n"
+"\n"
+"            *This is an automated message please do not reply"
+msgstr ""
+
+#. Name of the plugin
+msgid "Directorist - Live Chat"
+msgstr ""
+
+#: directorist-live-chat.php:123 directorist-live-chat.php:1027
+msgid "Hide Chat"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://wpwax.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://directorist.com/product/directorist-live-chat/"
+msgstr ""
+
+#: directorist-live-chat.php:201 directorist-live-chat.php:295
+msgid "Invalid license."
+msgstr ""
+
+#: directorist-live-chat.php:326
+msgid "License activated successfully!"
+msgstr ""
+
+#: directorist-live-chat.php:232
+msgid "License deactivated successfully!"
+msgstr ""
+
+#: directorist-live-chat.php:238 directorist-live-chat.php:332
+msgid "License not found!"
+msgstr ""
+
+#: directorist-live-chat.php:106 directorist-live-chat.php:136
+#: directorist-live-chat.php:1144
+msgid "Live Chat"
+msgstr ""
+
+#: directorist-live-chat.php:140
+msgid "Live Chat Settings"
+msgstr ""
+
+#: directorist-live-chat.php:564 directorist-live-chat.php:684
+#: templates/live_chat.php:39 templates/chat.php:45
+msgid "Login"
+msgstr ""
+
+#: directorist-live-chat.php:976
+msgid "No chat history found as an author!"
+msgstr ""
+
+#: directorist-live-chat.php:618 directorist-live-chat.php:738
+#: templates/live_chat.php:93 templates/chat.php:99
+msgid "No record found!"
+msgstr ""
+
+#: directorist-live-chat.php:564 directorist-live-chat.php:684
+#: templates/live_chat.php:39 templates/chat.php:45
+msgid "or"
+msgstr ""
+
+#: directorist-live-chat.php:566 directorist-live-chat.php:686
+#: templates/live_chat.php:41 templates/chat.php:47
+msgid "Register"
+msgstr ""
+
+#: directorist-live-chat.php:179 directorist-live-chat.php:273
+msgid "Response not found!"
+msgstr ""
+
+#: directorist-live-chat.php:118 directorist-live-chat.php:1026
+msgid "Show Chat"
+msgstr ""
+
+#: directorist-live-chat.php:573 directorist-live-chat.php:693
+#: templates/live_chat.php:48 templates/chat.php:54
+msgid "Show Chats"
+msgstr ""
+
+#: directorist-live-chat.php:113 directorist-live-chat.php:558
+#: directorist-live-chat.php:678 templates/live_chat.php:33
+#: templates/chat.php:39
+msgid "Start Chatting"
+msgstr ""
+
+#: directorist-live-chat.php:214 directorist-live-chat.php:308
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is an extension that allows the visitors to contact business owners "
+"immediately and easily."
+msgstr ""
+
+#: directorist-live-chat.php:566 directorist-live-chat.php:686
+#: templates/live_chat.php:41 templates/chat.php:47
+msgid "to chat with it's owner"
+msgstr ""
+
+#: directorist-live-chat.php:941
+msgid "Today"
+msgstr ""
+
+#: directorist-live-chat.php:627 directorist-live-chat.php:747
+#: templates/live_chat.php:102 templates/chat.php:108
+msgid "type your message here..."
+msgstr ""
+
+#. Author of the plugin
+msgid "wpWax"
+msgstr ""
+
+#: directorist-live-chat.php:1145
+msgid "You can active your Live Chat extension here."
+msgstr ""
+
+#: directorist-live-chat.php:141
+msgid "You can Customize all the settings of Live Chat Extension here"
+msgstr ""
+
+#: directorist-live-chat.php:563 directorist-live-chat.php:683
+#: templates/live_chat.php:38 templates/chat.php:44
+msgid "You need to"
+msgstr ""
+
+#: directorist-live-chat.php:208 directorist-live-chat.php:302
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: directorist-live-chat.php:188 directorist-live-chat.php:282
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: directorist-live-chat.php:196 directorist-live-chat.php:290
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: directorist-live-chat.php:220 directorist-live-chat.php:314
+msgid "Your license key has reached its activation limit."
+msgstr ""

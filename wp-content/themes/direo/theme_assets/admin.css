@@ -1,0 +1,9 @@
+[label="Single Page Layout"] .cptm-builder-section .cptm-listing-card-preview-header{
+    display:none;
+}
+
+.group-separation {
+    border: 1px solid #0073aa;
+    margin-bottom: 30px;
+    padding: 5px 10px 10px;
+}
